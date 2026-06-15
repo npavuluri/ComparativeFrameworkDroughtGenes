@@ -1,0 +1,3 @@
+[submodule "cafe5_analysis"]
+	path = cafe5_analysis
+	url = https://github.com/npavuluri/cafe5_analysis.git
