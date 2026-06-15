@@ -1,13 +1,4 @@
 #!/bin/bash
-#SBATCH -J mafft
-#SBATCH -o ./%x.%j.%N.out
-#SBATCH -D ./
-#SBATCH -e ./%x.%j.%N.err
-#SBATCH --get-user-env
-#SBATCH --partition=CPU
-#SBATCH --mem=50G
-#SBATCH --nodes=1
-#SBATCH --cpus-per-task=96
 
 set -uo pipefail # leave out -e so you can see failures, all the jobs were failing before even writing to error file.
 IFS=$'\n\t'
