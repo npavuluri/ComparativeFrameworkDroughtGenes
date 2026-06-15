@@ -1,7 +1,6 @@
-##usage: python metapub_fetch.py --common rice --scientific Oryza_sativa
+#!/usr/bin/env python3
 
 import argparse
-
 from pathlib import Path
 import os, csv
 from dotenv import load_dotenv
@@ -53,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+##usage: python metapub_fetch.py --common rice --scientific Oryza_sativa
