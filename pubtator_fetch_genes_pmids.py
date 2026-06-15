@@ -1,4 +1,4 @@
-##usage: python pubtator_fetch_genes_pmids.py --pmids_csv data/sorghum_pmids.csv --outfile data/outputs/sorghum_genes.csv
+#!/usr/bin/env python3
 
 import csv, sys, time, xml.etree.ElementTree as ET
 from pathlib import Path
@@ -165,3 +165,4 @@ def main():
 if __name__ == "__main__":
     main()
 
+##usage: python pubtator_fetch_genes_pmids.py --pmids_csv data/sorghum_pmids.csv --outfile data/outputs/sorghum_genes.csv
