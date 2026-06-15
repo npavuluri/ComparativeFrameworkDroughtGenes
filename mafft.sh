@@ -15,7 +15,7 @@ IFS=$'\n\t'
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate mafft || { echo "Conda failed to activate" >&2; exit 1; } #sbatch job fails before even activating the env, so to see what causes it.
 
-mafft NAC.fa > NAC_aligned.fa
+mafft NAC_combined.fa > NAC_aligned.fa
 
 # Always deactivate safely
 set +u
