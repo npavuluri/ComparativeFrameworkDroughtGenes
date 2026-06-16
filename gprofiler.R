@@ -11,12 +11,13 @@ library(readr)
 
 get_version_info(organism = "athaliana")
 print(get_version_info(organism = "athaliana"))
+#other species - "osativa", "sbicolor", "tarefseqv2", "tturgidum", "hvulgare", "zmays", and "bdistachyon"
 
 input <- read.delim("drought_genes.txt", header=FALSE)
 head(input)
 str(input)
 
-at_gene_list <- input[grep("^AT", input$V1), ] #how to use grep to subset a list of genes.
+at_gene_list <- input[grep("^AT", input$V1), ] 
 print(at_gene_list)
 
 at_gene_list <- unique(at_gene_list)
@@ -119,5 +120,7 @@ ggplot(top_go, aes(
   ) +
   theme_minimal()
 ggsave("go_enrichment_dotplot_athaliana1.png", width = 7, height = 5, dpi = 1900)
+
+sessionInfo()
 
 
