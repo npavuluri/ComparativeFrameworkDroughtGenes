@@ -119,7 +119,7 @@ ggplot(top_go, aes(
     color = "p-value"
   ) +
   theme_minimal()
-ggsave("results/go_enrichment_dotplot_athaliana1.png", width = 7, height = 5, dpi = 1900)
+ggsave("results/go_enrichment_dotplot_athaliana1.svg", width = 7, height = 5, dpi = 1900)
 
 sessionInfo()
 
