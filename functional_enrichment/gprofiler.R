@@ -66,9 +66,9 @@ cat("Annotated with GO terms:", length(genes_with_go), "\n")
 cat("Not annotated:", length(genes_without_go), "\n")
 cat("Not annotated:", genes_without_go, "\n")
 
-write.csv(result_table, file="result_table_athaliana.csv")
+write.csv(result_table, file="results/result_table_athaliana.csv")
 
-go_data <- read_csv("result_table_athaliana.csv")
+go_data <- read_csv("results/result_table_athaliana.csv")
 
 # Summarize to one row per GO term
 go_summary <- go_data %>%
@@ -96,7 +96,7 @@ ggplot(go_summary, aes(
     color = "p-value"
   ) +
   theme_minimal()
-ggsave("go_enrichment_dotplot_athaliana.pdf", width = 20, height = 30, dpi = 1800)
+ggsave("results/go_enrichment_dotplot_athaliana.pdf", width = 20, height = 30, dpi = 1800)
 
 top_go <- go_summary %>%
   arrange(p_value) %>%
@@ -119,7 +119,7 @@ ggplot(top_go, aes(
     color = "p-value"
   ) +
   theme_minimal()
-ggsave("go_enrichment_dotplot_athaliana1.png", width = 7, height = 5, dpi = 1900)
+ggsave("results/go_enrichment_dotplot_athaliana1.png", width = 7, height = 5, dpi = 1900)
 
 sessionInfo()
 
