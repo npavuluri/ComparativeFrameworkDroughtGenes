@@ -285,11 +285,83 @@ pmid,gene_id,gene_text,title,journal
 22531790,542792,Wdhn13,Variation in abscisic acid responsiveness of Aegilops tauschii and hexaploid wheat synthetics due to the D-genome diversity.,Genes Genet Syst. 2012
 23641183,548143,allene oxide cyclase,Cloning of allene oxide cyclase gene from Leymus mollis and analysis of its expression in wheat-Leymus chromosome addition lines.,Breed Sci. 2013 Mar
 25560188,830850,MSA,Pleiotropic effects of TaMYB3R1 on plant development and response to osmotic stress in transgenic Arabidopsis.,Gene. 2015 Mar 10
+27245096,839287,AtSDD1,The Wheat GT Factor TaGT2L1D Negatively Regulates Drought Tolerance and Plant Development.,Sci Rep. 2016 Jun 1
+27245096,840218,gtl1-3,The Wheat GT Factor TaGT2L1D Negatively Regulates Drought Tolerance and Plant Development.,Sci Rep. 2016 Jun 1
 27917186,778412,DREB2,"Expression Level of the DREB2-Type Gene, Identified with Amplifluor SNP Markers, Correlates with Performance, and Tolerance to Dehydration in Bread Wheat Cultivars from Northern Kazakhstan.",Front Plant Sci. 2016 Nov 18
 28261230,548117,RAR1,TaRar1 Is Involved in Wheat Defense against Stripe Rust Pathogen Mediated by YrSu.,Front Plant Sci. 2017 Feb 14
 28912797,778412,DREB2,"Corrigendum: Expression Level of the DREB2-Type Gene, Identified with Amplifluor SNP Markers, Correlates with Performance, and Tolerance to Dehydration in Bread Wheat Cultivars from Northern Kazakhstan.",Front Plant Sci. 2017 Sep 7
 29225611,819248,AtWRKY46,Overexpression of TaWRKY146 Increases Drought Tolerance through Inducing Stomatal Closure in Arabidopsis thaliana.,Front Plant Sci. 2017 Nov 24
+29801463,839907,CBL-interacting protein kinase 23,Wheat CBL-interacting protein kinase 23 positively regulates drought stress and ABA responses.,BMC Plant Biol. 2018 May 25
+31649704,832602,F-box Protein,Wheat F-box Protein TaFBA1 Positively Regulates Plant Drought Tolerance but Negatively Regulates Stomatal Closure.,Front Plant Sci. 2019 Oct 10
+31649704,838452,RCAR1,Wheat F-box Protein TaFBA1 Positively Regulates Plant Drought Tolerance but Negatively Regulates Stomatal Closure.,Front Plant Sci. 2019 Oct 10
+31649704,818199,ABI5,Wheat F-box Protein TaFBA1 Positively Regulates Plant Drought Tolerance but Negatively Regulates Stomatal Closure.,Front Plant Sci. 2019 Oct 10
 32264833,10780,C2H2-type zinc finger protein,The barley stripe mosaic virus expression system reveals the wheat C2H2 zinc finger protein TaZFP1B as a key regulator of drought tolerance.,BMC Plant Biol. 2020 Apr 7
+32503498,107763252,dehydrin,Transcription factor TabHLH49 positively regulates dehydrin WZY2 gene expression and enhances drought stress tolerance in wheat.,BMC Plant Biol. 2020 Jun 5
+34868149,543190,catalase,Nucleoredoxin Gene TaNRX1 Positively Regulates Drought Tolerance in Transgenic Wheat (Triticum aestivum L.).,Front Plant Sci. 2021 Nov 11
+34868149,543313,peroxidase,Nucleoredoxin Gene TaNRX1 Positively Regulates Drought Tolerance in Transgenic Wheat (Triticum aestivum L.).,Front Plant Sci. 2021 Nov 11
+35959993,799,CRT,A gain-of-function allele of a DREB transcription factor gene ameliorates drought tolerance in wheat.,Plant Cell. 2022 Oct 27
+36097863,819235,bZIP transcription factor,"TaFDL2-1A confers drought stress tolerance by promoting ABA biosynthesis, ABA responses, and ROS scavenging in transgenic wheat.",Plant J. 2022 Nov
+36233327,830424,DREB2A,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,835307,RD29A,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,835306,RD29B,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,841395,ABF1,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,841665,ABA2,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,828714,ABI1,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,838652,CAT1,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36233327,841486,ERF3,"A Group I WRKY Gene, TaWRKY133, Negatively Regulates Drought Resistance in Transgenic Plants.",Int J Mol Sci. 2022 Oct 10
+36442571,842718,WRKY transcription factor,The wheat WRKY transcription factor TaWRKY1-2D confers drought resistance in transgenic Arabidopsis and wheat (Triticum aestivum L.).,Int J Biol Macromol. 2023 Jan 31
+36442571,827860,AtCAT1,The wheat WRKY transcription factor TaWRKY1-2D confers drought resistance in transgenic Arabidopsis and wheat (Triticum aestivum L.).,Int J Biol Macromol. 2023 Jan 31
+37108500,829597,agb1-2,G-Protein beta-Subunit Gene TaGB1-B Enhances Drought and Salt Resistance in Wheat.,Int J Mol Sci
+38172667,847,catalase,"TaWRKY31, a novel WRKY transcription factor in wheat, participates in regulation of plant drought stress tolerance.",
+38172667,820667,AtNCED3,"TaWRKY31, a novel WRKY transcription factor in wheat, participates in regulation of plant drought stress tolerance.",
+38172667,841665,AtABA2,"TaWRKY31, a novel WRKY transcription factor in wheat, participates in regulation of plant drought stress tolerance.",
+38172667,828714,AtABI1,"TaWRKY31, a novel WRKY transcription factor in wheat, participates in regulation of plant drought stress tolerance.",
+38172667,829547,AtABF3,"TaWRKY31, a novel WRKY transcription factor in wheat, participates in regulation of plant drought stress tolerance.",
+39054416,4800,NF-YA,Transcription factor TaNF-YB2 interacts with partners TaNF-YA7/YC7 and transcriptionally activates distinct stress-defensive genes to modulate drought tolerance in T. Aestivum.,BMC Plant Biol
+39054416,4802,NF-YC,Transcription factor TaNF-YB2 interacts with partners TaNF-YA7/YC7 and transcriptionally activates distinct stress-defensive genes to modulate drought tolerance in T. Aestivum.,BMC Plant Biol
+39054416,4602,MYB,Transcription factor TaNF-YB2 interacts with partners TaNF-YA7/YC7 and transcriptionally activates distinct stress-defensive genes to modulate drought tolerance in T. Aestivum.,BMC Plant Biol
+39054416,5832,P5CS,Transcription factor TaNF-YB2 interacts with partners TaNF-YA7/YC7 and transcriptionally activates distinct stress-defensive genes to modulate drought tolerance in T. Aestivum.,BMC Plant Biol
+39375249,543115,calcium-dependent protein kinase,TaCDPK1-5A positively regulates drought response through modulating osmotic stress responsive-associated processes in wheat (Triticum aestivum).,Plant Cell Rep
+39375249,543088,mitogen-activated protein kinase,TaCDPK1-5A positively regulates drought response through modulating osmotic stress responsive-associated processes in wheat (Triticum aestivum).,Plant Cell Rep
 40915112,543160,MYB2,Identification of unique osmotic response mechanisms in Aegilops biuncialis Vis. compared to Triticum aestivum L. Mv9kr1.,Plant Physiol Biochem
 40915112,100125717,APX,Identification of unique osmotic response mechanisms in Aegilops biuncialis Vis. compared to Triticum aestivum L. Mv9kr1.,Plant Physiol Biochem
 42137203,100286391,RLK,Deciphering the role of receptor-like kinases in the adaptation of Orinus species to the habitat of the Qinghai-Xizang (Tibet) Plateau.,Front Plant Sci
+22220579,839666,STZ,Wheat WRKY genes TaWRKY2 and TaWRKY19 regulate abiotic stress tolerance in transgenic Arabidopsis plants.,Plant Cell Environ. 2012 Jun
+22220579,835306,RD29B,Wheat WRKY genes TaWRKY2 and TaWRKY19 regulate abiotic stress tolerance in transgenic Arabidopsis plants.,Plant Cell Environ. 2012 Jun
+22220579,830424,DREB2A,Wheat WRKY genes TaWRKY2 and TaWRKY19 regulate abiotic stress tolerance in transgenic Arabidopsis plants.,Plant Cell Environ. 2012 Jun
+22220579,835307,RD29A,Wheat WRKY genes TaWRKY2 and TaWRKY19 regulate abiotic stress tolerance in transgenic Arabidopsis plants.,Plant Cell Environ. 2012 Jun
+22220579,831454,Cor6.6,Wheat WRKY genes TaWRKY2 and TaWRKY19 regulate abiotic stress tolerance in transgenic Arabidopsis plants.,Plant Cell Environ. 2012 Jun
+26536863,841721,NAM,"TaNAC29, a NAC transcription factor from wheat, enhances salt and drought tolerance in transgenic Arabidopsis.",BMC Plant Biol. 2015 Nov 4
+26536863,829661,catalase,"TaNAC29, a NAC transcription factor from wheat, enhances salt and drought tolerance in transgenic Arabidopsis.",BMC Plant Biol. 2015 Nov 4
+29089392,830424,DEHYDRATION-RESPONSIVE ELEMENT BINDING PROTEIN2A,The E3 Ligase TaSAP5 Alters Drought Stress Responses by Promoting the Degradation of DRIP Proteins.,Plant Physiol. 2017 Dec
+29089392,837188,DREB2A INTERACTING PROTEIN1,The E3 Ligase TaSAP5 Alters Drought Stress Responses by Promoting the Degradation of DRIP Proteins.,Plant Physiol. 2017 Dec
+29089392,817608,DRIP2,The E3 Ligase TaSAP5 Alters Drought Stress Responses by Promoting the Degradation of DRIP Proteins.,Plant Physiol. 2017 Dec
+29089392,819856,E3 ubiquitin ligase,The E3 Ligase TaSAP5 Alters Drought Stress Responses by Promoting the Degradation of DRIP Proteins.,Plant Physiol. 2017 Dec
+29616395,107801900,14-3-3,"Expression of TaGF14b, a 14-3-3 adaptor protein gene from wheat, enhances drought and salt tolerance in transgenic tobacco.",Planta. 2018 Jul
+30693013,543190,catalase,"TaSnRK2.9, a Sucrose Non-fermenting 1-Related Protein Kinase Gene, Positively Regulates Plant Response to Drought and Salt Stress in Transgenic Tobacco.",Front Plant Sci. 2019 Jan 14
+30693013,543313,peroxidase,"TaSnRK2.9, a Sucrose Non-fermenting 1-Related Protein Kinase Gene, Positively Regulates Plant Response to Drought and Salt Stress in Transgenic Tobacco.",Front Plant Sci. 2019 Jan 14
+30842265,780624,BRI1,BES/BZR Transcription Factor TaBZR2 Positively Regulates Drought Responses by Activation of TaGST1.,Plant Physiol. 2019 May
+32264833,10780,C2H2-type zinc finger protein,The barley stripe mosaic virus expression system reveals the wheat C2H2 zinc finger protein TaZFP1B as a key regulator of drought tolerance.,BMC Plant Biol. 2020 Apr 7
+34890091,6424,PYL,The wheat ABA receptor gene TaPYL1-1B contributes to drought tolerance and grain yield by increasing water-use efficiency.,Plant Biotechnol J. 2022 May
+34890091,4602,MYB,The wheat ABA receptor gene TaPYL1-1B contributes to drought tolerance and grain yield by increasing water-use efficiency.,Plant Biotechnol J. 2022 May
+35620700,829661,catalase,The Wheat Gene TaVQ14 Confers Salt and Drought Tolerance in Transgenic Arabidopsis thaliana Plants.,Front Plant Sci. 2022 May 10
+35620700,840471,AtCDPK2,The Wheat Gene TaVQ14 Confers Salt and Drought Tolerance in Transgenic Arabidopsis thaliana Plants.,Front Plant Sci. 2022 May 10
+36105699,844298,abc1k3,Genome-wide identification of wheat ABC1K gene family and functional dissection of TaABC1K3 and TaABC1K6 involved in drought tolerance.,Front Plant Sci. 2022 Aug 29
+36566287,6647,superoxide dismutase,The Aux/IAA protein TaIAA15-1A confers drought tolerance in Brachypodium by regulating abscisic acid signal pathway.,Plant Cell Rep. 2023 Feb
+36566287,847,catalase,The Aux/IAA protein TaIAA15-1A confers drought tolerance in Brachypodium by regulating abscisic acid signal pathway.,Plant Cell Rep. 2023 Feb
+37621887,780624,BRI1 EMS SUPPRESSOR1,BRI1 EMS SUPPRESSOR1 genes regulate abiotic stress and anther development in wheat (Triticum aestivum L.).,Front Plant Sci
+37621887,838518,BES1,BRI1 EMS SUPPRESSOR1 genes regulate abiotic stress and anther development in wheat (Triticum aestivum L.).,Front Plant Sci
+37621887,827623,BEH3,BRI1 EMS SUPPRESSOR1 genes regulate abiotic stress and anther development in wheat (Triticum aestivum L.).,Front Plant Sci
+37621887,844206,BEH4,BRI1 EMS SUPPRESSOR1 genes regulate abiotic stress and anther development in wheat (Triticum aestivum L.).,Front Plant Sci
+37977027,107792750,WRKY transcription factor,Wheat WRKY transcription factor TaWRKY24 confers drought and salt tolerance in transgenic plants.,Plant Physiol Biochem
+38116153,838003,Whirly1,Identification of Whirly transcription factors in Triticeae species and functional analysis of TaWHY1-7D in response to osmotic stress.,Front Plant Sci
+38116153,843467,Whirly2,Identification of Whirly transcription factors in Triticeae species and functional analysis of TaWHY1-7D in response to osmotic stress.,Front Plant Sci
+39466433,818566,P5CS1,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,835307,RD29A,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,828652,DREB1A.,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,839495,IAA12,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,827102,IAA14,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,832196,ARF7,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,818843,LBD16,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,819150,LBD18,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta
+39466433,824036,CDKA1,Overexpression of wheat C2H2 zinc finger protein transcription factor TaZAT8-5B enhances drought tolerance and root growth in Arabidopsis thaliana.,Planta

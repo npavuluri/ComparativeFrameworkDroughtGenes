@@ -1,49 +1,254 @@
 pmid,gene_id,gene_text,title,journal
+11886890,542331,NADP-malic enzyme,Engineering for drought avoidance: expression of maize NADP-malic enzyme in tobacco results in altered stomatal function.,J Exp Bot. 2002 Apr
+12175017,839571,atrab28,Arabidopsis thaliana atrab28: a nuclear targeted protein related to germination and toxic cation tolerance.,Plant Mol Biol. 2002 Sep
+12586876,107810646,TPS,Expression of a bifunctional fusion of the Escherichia coli genes for trehalose-6-phosphate synthase and trehalose-6-phosphate phosphatase in transgenic rice plants increases trehalose accumulation and abiotic stress tolerance without stunting growth.,Plant Physiol. 2003 Feb
+12586876,107814858,TPP,Expression of a bifunctional fusion of the Escherichia coli genes for trehalose-6-phosphate synthase and trehalose-6-phosphate phosphatase in transgenic rice plants increases trehalose accumulation and abiotic stress tolerance without stunting growth.,Plant Physiol. 2003 Feb
+12595141,542372,PEPC,Improvement of drought tolerance in maize: towards the functional validation of the Zm-Asr1 gene and increase of water use efficiency by over-expressing C4-PEPC.,Biochimie. 2002 Nov
+15073214,107796336,NPK1,Expression of the Nicotiana protein kinase (NPK1) enhanced drought tolerance in transgenic maize.,J Exp Bot. 2004 May
+15073214,100191795,mitogen-activated protein kinase kinase kinase,Expression of the Nicotiana protein kinase (NPK1) enhanced drought tolerance in transgenic maize.,J Exp Bot. 2004 May
+15190366,828652,DREB1A,Stress-induced expression in wheat of the Arabidopsis thaliana DREB1A gene delays water stress symptoms under greenhouse conditions.,Genome. 2004 Jun
+15190366,835307,rd29A,Stress-induced expression in wheat of the Arabidopsis thaliana DREB1A gene delays water stress symptoms under greenhouse conditions.,Genome. 2004 Jun
+15356330,541957,DREB1,Cloning and functional analysis of a novel DREB1/CBF transcription factor involved in cold-responsive gene expression in Zea mays L.,Plant Cell Physiol. 2004 Aug
+15356330,828652,DREB1A,Cloning and functional analysis of a novel DREB1/CBF transcription factor involved in cold-responsive gene expression in Zea mays L.,Plant Cell Physiol. 2004 Aug
+15359131,828653,DREB1b,"Ectopic expression of a cold-inducible transcription factor, CBF1/DREB1b, in transgenic rice (Oryza sativa L.).",Mol Cells. 2004 Aug 31
+15359131,828782,lip5,"Ectopic expression of a cold-inducible transcription factor, CBF1/DREB1b, in transgenic rice (Oryza sativa L.).",Mol Cells. 2004 Aug 31
+16362303,4703,nebulin,Changes in gene expression in maize kernel in response to water and salt stress.,Plant Cell Rep. 2006 Feb
+16709191,732783,DBF1-interactor protein 1,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
+16709191,542569,DBF1,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
+16709191,101027154,dehydration-responsive element (DRE)-binding factor,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
+16709191,542373,rab17,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
+16722342,542363,Adh1,Induced expression of DREB transcriptional factor and study on its physiological effects of drought tolerance in transgenic wheat.,Yi Chuan Xue Bao. 2006 May
+17075179,542434,ZmPIP1-1,[Expression of ZmPIP1 subgroup genes in maize roots under water shortage].,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2006 Oct
+17075179,541779,ZmPIP1-2,[Expression of ZmPIP1 subgroup genes in maize roots under water shortage].,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2006 Oct
+17346263,732788,ZmDREB2A,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
+17346263,541957,DREB1,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
+17346263,830424,DREB2A,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
+17852355,100126542,H+-translocating pyrophosphatase,Molecular cloning and characterization of a novel H+-translocating pyrophosphatase gene in Zea mays.,DNA Seq. 2008 Apr
+17923671,542390,nuclear factor Y (NF-Y) B,Plant nuclear factor Y (NF-Y) B subunits confer drought tolerance and lead to improved corn yields on water-limited acres.,Proc Natl Acad Sci U S A. 2007 Oct 16
+17923671,818472,AtNF-YB1,Plant nuclear factor Y (NF-Y) B subunits confer drought tolerance and lead to improved corn yields on water-limited acres.,Proc Natl Acad Sci U S A. 2007 Oct 16
+18349516,845178,matK,Identification of drought-responsive genes from maize inbred lines.,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2007 Dec
+18349516,100037769,maturase,Identification of drought-responsive genes from maize inbred lines.,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2007 Dec
+18713346,818854,COR15a,Isolation and characterization of a C-repeat binding transcription factor from maize.,J Integr Plant Biol. 2008 Aug
+18713346,828652,CBF3,Isolation and characterization of a C-repeat binding transcription factor from maize.,J Integr Plant Biol. 2008 Aug
+18930563,835307,RD29A,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+18930563,835306,RD29B,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+18930563,818566,P5CS1,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+18930563,824727,P5CS2,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+18930563,828714,ABI1,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+18930563,835809,ABI2,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
+19105030,100141385,CBL-interacting protein kinase,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
+19105030,833502,sos2,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
+19105030,814729,SOS1,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
+19638676,542663,cinnamyl alcohol dehydrogenase,Differential expression of candidate genes for lignin biosynthesis under drought stress in maize leaves.,J Appl Genet. 2009
+19704731,840339,STOP1,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
+19704731,817757,Cys2/His2 type zinc-finger protein,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
+19704731,837363,AtALMT1,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
+19765229,541959,SAT2,"A putative novel transcription factor, AtSKIP, is involved in abscisic acid signalling and confers salt and osmotic tolerance in Arabidopsis.",New Phytol. 2010 Jan
+19906836,100274012,superoxide dismutase,"Mechanisms of progressive water deficit tolerance and growth recovery of Chinese maize foundation genotypes Huangzao 4 and Chang 7-2, which are proposed on the basis of comparison of physiological and transcriptomic responses.",Plant Cell Physiol. 2009 Dec
+19906836,542029,peroxidase,"Mechanisms of progressive water deficit tolerance and growth recovery of Chinese maize foundation genotypes Huangzao 4 and Chang 7-2, which are proposed on the basis of comparison of physiological and transcriptomic responses.",Plant Cell Physiol. 2009 Dec
+20633239,542328,H+ -PPase,The pyramid of transgenes TsVP and BetA effectively enhances the drought tolerance of maize plants.,Plant Biotechnol J. 2011 Feb
+20642740,542373,Rab17,Improvement of stress tolerance of wheat and barley by modulation of expression of DREB/CBF factors.,Plant Biotechnol J. 2011 Feb
+21134899,732819,vp14,Nitric oxide mediates brassinosteroid-induced ABA biosynthesis involved in oxidative stress tolerance in maize leaves.,Plant Cell Physiol. 2011 Jan
+21327835,542369,Cat1,Maize ABP9 enhances tolerance to multiple stresses in transgenic Arabidopsis by modulating ABA signaling and cellular levels of reactive oxygen species.,Plant Mol Biol. 2011 Mar
+21437581,542324,ivr2,An analysis of the polymorphisms in a gene for being involved in drought tolerance in maize.,Genetica. 2011 Apr
+21638061,835307,RD29A,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21638061,835306,RD29B,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21638061,840987,RAB18,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21638061,828714,ABI1,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21638061,830424,DREB2A,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21638061,818566,P5CS1,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
+21830089,542548,phosphatidylinositol synthase,Overexpression of the phosphatidylinositol synthase gene from Zea mays in tobacco plants alters the membrane lipids composition and improves drought stress tolerance.,Planta. 2012 Jan
+21866346,100217305,bZIP transcription factor,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
+21866346,835306,RD29B,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
+21866346,840987,RAB18,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
+21866346,816317,HIS1-3,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
+22130861,844399,WIN1,An ethylene response factor OsWR1 responsive to drought stress transcriptionally activates wax synthesis related genes and increases wax production in rice.,Plant Mol Biol. 2012 Feb
+22245611,824718,SDIR1,"ZmRFP1, the putative ortholog of SDIR1, encodes a RING-H2 E3 ubiquitin ligase and responds to drought stress in an ABA-dependent manner in maize.",Gene. 2012 Mar 10
+22245611,100282035,RING-finger protein,"ZmRFP1, the putative ortholog of SDIR1, encodes a RING-H2 E3 ubiquitin ligase and responds to drought stress in an ABA-dependent manner in maize.",Gene. 2012 Mar 10
+22279089,100147737,WRKY,Molecular phylogenetic and expression analysis of the complete WRKY transcription factor family in maize.,DNA Res. 2012 Apr
+22366304,100285487,peptidyl-prolyl cis/trans isomerase,Genome-wide analysis and environmental response profiling of the FK506-binding protein gene family in maize (Zea mays L.).,Gene. 2012 May 1
+22610487,100170665,ZmSNAC1,"A maize stress-responsive NAC transcription factor, ZmSNAC1, confers enhanced tolerance to dehydration in transgenic Arabidopsis.",Plant Cell Rep. 2012 Sep
+22837360,100284615,phospholipase C,Effects of drought on gene expression in maize reproductive and leaf meristem tissue revealed by RNA-Seq.,Plant Physiol. 2012 Oct
+22837360,542590,invertase,Effects of drought on gene expression in maize reproductive and leaf meristem tissue revealed by RNA-Seq.,Plant Physiol. 2012 Oct
+23152961,542548,phosphatidylinositol synthase,Overexpression of the phosphatidylinositol synthase gene (ZmPIS) conferring drought stress tolerance by altering membrane lipid composition and increasing ABA synthesis in maize.,Plant Cell Environ. 2013 May
+23152961,100192952,ubiquitin,Overexpression of the phosphatidylinositol synthase gene (ZmPIS) conferring drought stress tolerance by altering membrane lipid composition and increasing ABA synthesis in maize.,Plant Cell Environ. 2013 May
+23326325,838224,molybdenum cofactor sulfurase,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
+23326325,542228,aldehyde oxidase,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
+23326325,542369,CAT1,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
+23415326,100192952,ubiquitin,A rice stress-responsive NAC gene enhances tolerance of transgenic wheat to drought and salt stresses.,Plant Sci. 2013 Apr
+23415326,542711,sucrose phosphate synthase,A rice stress-responsive NAC gene enhances tolerance of transgenic wheat to drought and salt stresses.,Plant Sci. 2013 Apr
+23815483,542224,calcium-dependent protein kinase,Genome-wide identification and expression analysis of calcium-dependent protein kinase in maize.,BMC Genomics. 2013 Jul 1
+23815483,606407,CDPK,Genome-wide identification and expression analysis of calcium-dependent protein kinase in maize.,BMC Genomics. 2013 Jul 1
+23884600,100382324,GRMZM2G125777,Genome-wide association analysis for nine agronomic traits in maize under well-watered and water-stressed conditions.,Theor Appl Genet. 2013 Oct
+23911729,542224,calcium-dependent protein kinase,"A maize calcium-dependent protein kinase gene, ZmCPK4, positively regulated abscisic acid signaling and enhanced drought stress tolerance in transgenic Arabidopsis.",Plant Physiol Biochem. 2013 Oct
+24080398,824718,SALT- AND DROUGHT-INDUCED RING FINGER1,Overexpression of a maize E3 ubiquitin ligase gene enhances drought tolerance through regulating stomatal aperture and antioxidant system in transgenic tobacco.,Plant Physiol Biochem. 2013 Dec
+24080398,100282035,RING-finger protein,Overexpression of a maize E3 ubiquitin ligase gene enhances drought tolerance through regulating stomatal aperture and antioxidant system in transgenic tobacco.,Plant Physiol Biochem. 2013 Dec
+24483851,822061,ABA-Insensitive3,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24483851,818199,AtABI5,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24483851,843216,AtRAV2,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24483851,829547,AtABF3,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24483851,837886,AtRAV1/2,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24483851,843221,bZIP,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
+24817160,818566,Delta1-Pyrroline-5-carboxylate synthetase 1,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
+24817160,832636,RD22,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
+24817160,835306,RD29B,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
+24817160,828714,ABA-insensitive 1,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
+24864043,542140,GT1,Evolutionary history of trihelix family and their functional diversification.,DNA Res. 2014 Oct
+24864043,8055927,Sb06g023980,Evolutionary history of trihelix family and their functional diversification.,DNA Res. 2014 Oct
+24929517,100282161,mo-molybdopterin cofactor sulfurase,[Cloning and functional validation of promoter of mo-molybdopterin cofactor sulfurase gene in maize].,Yi Chuan. 2014 Jun
+24965356,100192952,UBIQUITIN,OsiSAP1 overexpression improves water-deficit stress tolerance in transgenic rice by affecting expression of endogenous stress-related genes.,Plant Cell Rep. 2014 Sep
+24974327,840987,RAB18,"A maize mitogen-activated protein kinase kinase, ZmMKK1, positively regulated the salt and drought tolerance in transgenic Arabidopsis.",J Plant Physiol. 2014 Jul 15
+24974327,835307,RD29A,"A maize mitogen-activated protein kinase kinase, ZmMKK1, positively regulated the salt and drought tolerance in transgenic Arabidopsis.",J Plant Physiol. 2014 Jul 15
+25076840,542019,zmm16,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
+25076840,100415939,MADS-domain transcription factor,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
+25076840,542126,psbs1,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
+25199535,542176,PP2C,Maize protein phosphatase gene family: identification and molecular characterization.,BMC Genomics. 2014 Sep 9
+25231250,103647543,phosphoenolpyruvate carboxylase,Improved oxidative tolerance in suspension-cultured cells of C4-pepctransgenic rice by H2O2 and Ca(2+) under PEG-6000.,J Integr Plant Biol. 2015 Jun
+25460871,103647543,phosphoenolpyruvate carboxylase,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
+25460871,542278,nitrate reductase,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
+25460871,542702,phospholipase D,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
+25606426,100170665,ZmSNAC1,Genome-wide identification and expression pattern of drought-responsive members of the NAC family in maize.,Meta Gene. 2014 Jun 1
+25940960,542373,Rab17,The TaDREB3 transgene transferred by conventional crossings to different genetic backgrounds of bread wheat improves drought tolerance.,Plant Biotechnol J. 2016 Jan
+25941233,100286773,ascorbate peroxidase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
+25941233,541986,glutathione reductase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
+25941233,100274012,superoxide dismutase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
+26035591,100192952,ubiquitin,Overexpression of an AP2/ERF Type Transcription Factor OsEREBP1 Confers Biotic and Abiotic Stress Tolerance in Rice.,PLoS One. 2015 Jun 2
+26220082,542390,NF-YB,Constitutive overexpression of the TaNF-YB4 gene in transgenic wheat significantly improves grain yield.,J Exp Bot. 2015 Nov
+26220082,542322,polyubiquitin,Constitutive overexpression of the TaNF-YB4 gene in transgenic wheat significantly improves grain yield.,J Exp Bot. 2015 Nov
+26220950,825160,ARGOS,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
+26220950,818722,ORGAN SIZE RELATED1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
+26220950,831748,CONSTITUTIVE TRIPLE RESPONSE1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
+26220950,831889,ETHYLENE-INSENSITIVE2,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
+26220950,817148,REVERSION-TO-ETHYLENE SENSITIVITY1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
+26560113,103647543,phosphoenolpyruvate carboxylase,Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
+26560113,100281879,chlorophyll A-B binding protein,Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
+26584560,732788,ZmDREB2A,"ZmGOLS2, a target of transcription factor ZmDREB2A, offers similar protection against abiotic stress as ZmDREB2A.",Plant Mol Biol. 2016 Jan
+26584560,606405,GALACTINOL SYNTHASE2,"ZmGOLS2, a target of transcription factor ZmDREB2A, offers similar protection against abiotic stress as ZmDREB2A.",Plant Mol Biol. 2016 Jan
+26669318,542372,PEPC,Erratum to: Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
+26773738,548127,cytokinin dehydrogenase,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
+26773738,818749,AtCKX1,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
+26773738,100272792,beta-glucosidase,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
+26793207,800514,psbA,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
+26793207,845199,psbA,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
+26793207,107793843,NtERD10C,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
+26870063,542548,phosphatidylinositol synthase,Identification of a 467 bp Promoter of Maize Phosphatidylinositol Synthase Gene (ZmPIS) Which Confers High-Level Gene Expression and Salinity or Osmotic Stress Inducibility in Transgenic Tobacco.,Front Plant Sci. 2016 Feb 1
+26877151,548127,cytokinin dehydrogenase,Whole transcriptome analysis of transgenic barley with altered cytokinin homeostasis and increased tolerance to drought stress.,N Biotechnol. 2016 Sep 25
+27085597,100857067,NAC transcription factor,"ZmNAC55, a maize stress-responsive NAC transcription factor, confers drought resistance in transgenic Arabidopsis.",Plant Physiol Biochem. 2016 Aug
+27208250,100857067,NAC Transcription Factor,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
+27208250,542762,Calcium/Calmodulin-Dependent Protein Kinase,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
+27208250,732824,CCaMK,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
+27316630,107773042,peroxidase,Overexpression of sugarcane gene SoSnRK2.1 confers drought tolerance in transgenic tobacco.,Plant Cell Rep. 2016 Sep
+27316630,107799583,catalase,Overexpression of sugarcane gene SoSnRK2.1 confers drought tolerance in transgenic tobacco.,Plant Cell Rep. 2016 Sep
+27442592,541664,GOS2,ARGOS8 variants generated by CRISPR-Cas9 improve maize grain yield under field drought stress conditions.,Plant Biotechnol J. 2017 Feb
+27456042,542540,D-myo-inositol-3-phosphate synthase,Potential role of D-myo-inositol-3-phosphate synthase and 14-3-3 genes in the crosstalk between Zea mays and Rhizophagus intraradices under drought stress.,Mycorrhiza. 2016 Nov
+27933075,101769963,Lipid Transfer Protein,A Non-specific Setaria italica Lipid Transfer Protein Gene Plays a Critical Role under Abiotic Stress.,Front Plant Sci. 2016 Nov 24
+27968980,834756,cbl9,Characterization of the calcineurin B-Like (CBL) gene family in maize and functional analysis of ZmCBL9 under abscisic acid and abiotic stress treatments.,Plant Sci. 2016 Dec
+28175341,100037819,leafbladeless1,Natural antisense transcripts are significantly involved in regulation of drought stress in maize.,Nucleic Acids Res. 2017 May 19
+28344585,100192952,ubiquitin,Ectopic Expression of OsSta2 Enhances Salt Stress Tolerance in Rice.,Front Plant Sci. 2017 Mar 10
+28378532,842114,galactinol synthase 2,Overexpression of an Arabidopsis thaliana galactinol synthase gene improves drought tolerance in transgenic rice and increased grain yield in the field.,Plant Biotechnol J. 2017 Nov
+28378532,100192952,ubiquitin,Overexpression of an Arabidopsis thaliana galactinol synthase gene improves drought tolerance in transgenic rice and increased grain yield in the field.,Plant Biotechnol J. 2017 Nov
+28415033,542372,PEPC,Physiological investigation of C4-phosphoenolpyruvate-carboxylase-introduced rice line shows that sucrose metabolism is involved in the improved drought tolerance.,Plant Physiol Biochem. 2017 Jun
+28474114,542369,catalase1,"ABP9, a maize bZIP transcription factor, enhances tolerance to salt and drought in transgenic cotton.",Planta. 2017 Sep
+28482333,100384480,POD,Ethephon improved drought tolerance in maize seedlings by modulating cuticular wax biosynthesis and membrane stability.,J Plant Physiol. 2017 Jul
+28674550,542434,ZmPIP1;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541886,ZmPIP1;3,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541887,ZmPIP1;6,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,542644,ZmPIP2;2,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541890,ZmPIP2;4,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541675,ZmTIP1;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541687,ZmTIP2;3,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28674550,541897,ZmTIP4;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
+28779129,542637,CKII,Functional characterization of KS-type dehydrin ZmDHN13 and its related conserved domains under oxidative stress.,Sci Rep. 2017 Aug 4
 28831141,819235,GBF3,GBF3 transcription factor imparts drought tolerance in Arabidopsis thaliana.,Sci Rep. 2017 Aug 22
+28861611,100857064,WRKY transcription factor,The maize WRKY transcription factor ZmWRKY17 negatively regulates salt stress tolerance in transgenic Arabidopsis plants.,Planta. 2017 Dec
+28888162,103647543,phosphoenolpyruvate carboxylase,Improved short-term drought response of transgenic rice over-expressing maize C4 phosphoenolpyruvate carboxylase via calcium signal cascade.,J Plant Physiol. 2017 Nov
+29223066,100192952,Ubiquitin,Overexpression of the maize E3 ubiquitin ligase gene ZmAIRP4 enhances drought stress tolerance in Arabidopsis.,Plant Physiol Biochem. 2018 Feb
+29312925,606407,CDPK,"Comparative Analysis of CDPK Family in Maize, Arabidopsis, Rice, and Sorghum Revealed Potential Targets for Drought Tolerance Improvement.",Front Chem. 2017 Dec 19
+29312925,100381337,MAPK,"Comparative Analysis of CDPK Family in Maize, Arabidopsis, Rice, and Sorghum Revealed Potential Targets for Drought Tolerance Improvement.",Front Chem. 2017 Dec 19
+29593762,103642918,Sulfite oxidase,Overexpression of the Maize Sulfite Oxidase Increases Sulfate and GSH Levels and Enhances Drought Tolerance in Transgenic Tobacco.,Front Plant Sci. 2018 Mar 12
+29636765,100284678,PSY,"Soil Selenium (Se) Biofortification Changes the Physiological, Biochemical and Epigenetic Responses to Water Stress in Zea mays L. by Inducing a Higher Drought Tolerance.",Front Plant Sci. 2018 Mar 27
+29636765,100285036,ADH,"Soil Selenium (Se) Biofortification Changes the Physiological, Biochemical and Epigenetic Responses to Water Stress in Zea mays L. by Inducing a Higher Drought Tolerance.",Front Plant Sci. 2018 Mar 27
+29852332,100274012,superoxide dismutase,Physiological and proteomic analysis of maize seedling response to water deficiency stress.,J Plant Physiol. 2018 Sep
+29856862,542434,ZmPIP1;1,Overexpression of a maize plasma membrane intrinsic protein ZmPIP1;1 confers drought and salt tolerance in Arabidopsis.,PLoS One. 2018 Jun 1
+29856862,829661,catalase,Overexpression of a maize plasma membrane intrinsic protein ZmPIP1;1 confers drought and salt tolerance in Arabidopsis.,PLoS One. 2018 Jun 1
+29876347,103638645,GRMZM2G140355,"Structural, Functional, and Evolutionary Characterization of Major Drought Transcription Factors Families in Maize.",Front Chem. 2018 May 23
+29896208,542390,NF-YB,ZmNF-YB16 Overexpression Improves Drought Resistance and Yield by Enhancing Photosynthesis and the Antioxidant Capacity of Maize Plants.,Front Plant Sci. 2018 May 29
 30126870,542120,ZmNHX3,ZmbZIP4 Contributes to Stress Resistance in Maize by Regulating ABA Synthesis and Root Development.,Plant Physiol. 2018 Oct
 30126870,542304,ABA1,ZmbZIP4 Contributes to Stress Resistance in Maize by Regulating ABA Synthesis and Root Development.,Plant Physiol. 2018 Oct
 30126870,100382261,ZmSCR,ZmbZIP4 Contributes to Stress Resistance in Maize by Regulating ABA Synthesis and Root Development.,Plant Physiol. 2018 Oct
+30137393,103636015,bHLH92,Dual functions of ZmNF-YA3 in photoperiod-dependent flowering and abiotic stress responses in maize.,J Exp Bot. 2018 Oct 12
+30160823,829541,OST1,ZmOST1 mediates abscisic acid regulation of guard cell ion channels and drought stress responses.,J Integr Plant Biol. 2019 Apr
+30200246,100857064,WRKY Transcription Factor,The Maize WRKY Transcription Factor ZmWRKY40 Confers Drought Resistance in Transgenic Arabidopsis.,Int J Mol Sci. 2018 Aug 30
+30200246,100147737,WRKY,The Maize WRKY Transcription Factor ZmWRKY40 Confers Drought Resistance in Transgenic Arabidopsis.,Int J Mol Sci. 2018 Aug 30
+30200246,829661,catalase,The Maize WRKY Transcription Factor ZmWRKY40 Confers Drought Resistance in Transgenic Arabidopsis.,Int J Mol Sci. 2018 Aug 30
+30301220,100857064,WRKY Transcription Factor,Maize WRKY Transcription Factor ZmWRKY106 Confers Drought and Heat Tolerance in Transgenic Plants.,Int J Mol Sci. 2018 Oct 6
+30301220,829661,catalase,Maize WRKY Transcription Factor ZmWRKY106 Confers Drought and Heat Tolerance in Transgenic Plants.,Int J Mol Sci. 2018 Oct 6
+30537614,103647543,phosphoenolpyruvate carboxylase,Exogenous alpha lipoic acid can stimulate photosystem II activity and the gene expressions of carbon fixation and chlorophyll metabolism enzymes in maize seedlings under drought.,J Plant Physiol. 2019 Jan
+30537614,541712,Rubisco activase,Exogenous alpha lipoic acid can stimulate photosystem II activity and the gene expressions of carbon fixation and chlorophyll metabolism enzymes in maize seedlings under drought.,J Plant Physiol. 2019 Jan
+30798172,829661,catalase,Expression of the maize MYB transcription factor ZmMYB3R enhances drought and salt stress tolerance in transgenic plants.,Plant Physiol Biochem. 2019 Apr
+30798172,28721236,peroxidase,Expression of the maize MYB transcription factor ZmMYB3R enhances drought and salt stress tolerance in transgenic plants.,Plant Physiol Biochem. 2019 Apr
 30824033,100280340,bHLH105,The maize bHLH transcription factor bHLH105 confers manganese tolerance in transgenic tobacco.,Plant Sci. 2019 Mar
+30919915,826884,AtNUDX7,"Functional analysis of Arabidopsis and maize transgenic lines overexpressing the ADP-ribose/NADH pyrophosphohydrolase, AtNUDX7.",Int J Dev Biol. 2019
+31065486,541904,EXPA1,Isolation and characterization of water-deficit stress-responsive alpha-expansin 1 (EXPA1) gene from Saccharum complex.,3 Biotech. 2019 May
+31072025,829661,catalase,ZmASR3 from the Maize ASR Gene Family Positively Regulates Drought Tolerance in Transgenic Arabidopsis.,Int J Mol Sci. 2019 May 8
+31195663,542361,Teosinte-branched 1/Cycloidea/Proliferating (,Genome-Wide Analysis of TCP Family Genes in Zea mays L. Identified a Role for ZmTCP42 in Drought Tolerance.,Int J Mol Sci. 2019 Jun 5
+31367213,100283990,RNA binding protein,Expression analysis of Argonaute genes in maize (Zea mays L.) in response to abiotic stress.,Hereditas. 2019 Jul 24
+31615416,817173,ERECTA,A leucine-rich repeat-receptor-like kinase gene SbER2-1 from sorghum (Sorghum bicolor L.) confers drought tolerance in maize.,BMC Genomics. 2019 Oct 15
+31692165,541675,ZmTIP1,Genetic variation in ZmTIP1 contributes to root hair elongation and drought tolerance in maize.,Plant Biotechnol J. 2020 May
+31692165,542224,calcium-dependent protein kinase,Genetic variation in ZmTIP1 contributes to root hair elongation and drought tolerance in maize.,Plant Biotechnol J. 2020 May
+31930666,100192952,ubiquitin,Expression of the CCCH-tandem zinc finger protein gene OsTZF5 under a stress-inducible promoter mitigates the effect of drought stress on rice grain yield under field conditions.,Plant Biotechnol J. 2020 Aug
+32035249,100274012,superoxide dismutase,Transcriptome analysis of maize inbred lines differing in drought tolerance provides novel insights into the molecular mechanisms of drought responses in roots.,Plant Physiol Biochem. 2020 Apr
+32035249,100286773,ascorbate peroxidase,Transcriptome analysis of maize inbred lines differing in drought tolerance provides novel insights into the molecular mechanisms of drought responses in roots.,Plant Physiol Biochem. 2020 Apr
+32068157,828792,VTC2,Enhanced Vitamin C Production Mediated by an ABA-Induced PTP-like Nucleotidase Improves Plant Drought Tolerance in Arabidopsis and Maize.,Mol Plant. 2020 May 4
+32068157,834406,HSFA6a,Enhanced Vitamin C Production Mediated by an ABA-Induced PTP-like Nucleotidase Improves Plant Drought Tolerance in Arabidopsis and Maize.,Mol Plant. 2020 May 4
+32097847,821227,glutathione-s-transferase,Investigating the role of Bowman-Birk serine protease inhibitor in Arabidopsis plants under drought stress.,Plant Physiol Biochem. 2020 Apr
+32097847,837304,ascorbate peroxidase,Investigating the role of Bowman-Birk serine protease inhibitor in Arabidopsis plants under drought stress.,Plant Physiol Biochem. 2020 Apr
 32161086,542400,gln2,Early Drought-Responsive Genes Are Variable and Relevant to Drought Tolerance.,G3 (Bethesda). 2020 May 4
 32161086,542520,gln6,Early Drought-Responsive Genes Are Variable and Relevant to Drought Tolerance.,G3 (Bethesda). 2020 May 4
+32255934,100857067,NAC transcription factor,Genome-wide analysis of NAC transcription factor family in maize under drought stress and rewatering.,Physiol Mol Biol Plants. 2020 Apr
+32480747,28721236,peroxidase,Expression of maize heat shock transcription factor gene ZmHsf06 enhances the thermotolerance and drought-stress tolerance of transgenic Arabidopsis.,Funct Plant Biol. 2015 Nov
+32480747,829661,catalase,Expression of maize heat shock transcription factor gene ZmHsf06 enhances the thermotolerance and drought-stress tolerance of transgenic Arabidopsis.,Funct Plant Biol. 2015 Nov
+32515355,541983,polyamine oxidase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
+32515355,100274012,superoxide dismutase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
+32515355,542029,peroxidase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
+32562291,541803,CESA5,Functions and regulatory framework of ZmNST3 in maize under lodging and drought stress.,Plant Cell Environ. 2020 Sep
+32662115,732788,ZmDREB2A,"ZmDREB2A regulates ZmGH3.2 and ZmRAFS, shifting metabolism towards seed aging tolerance over seedling growth.",Plant J. 2020 Sep
+32742048,732825,crtRB1,Phenotypic characterization and validation of provitamin A functional genes in early maturing provitamin A-quality protein maize (Zea mays) inbred lines.,Plant Breed. 2020 Jun
+32742048,100280448,LcyE,Phenotypic characterization and validation of provitamin A functional genes in early maturing provitamin A-quality protein maize (Zea mays) inbred lines.,Plant Breed. 2020 Jun
+33057352,100381337,MAPK,Comparative transcriptomic analysis of contrasting hybrid cultivars reveal key drought-responsive genes and metabolic pathways regulating drought stress tolerance in maize at various stages.,PLoS One. 2020 Oct 15
+33159351,100286107,cyclins B1 and A1,Modulation of cell cycle progression and chromatin dynamic as tolerance mechanisms to salinity and drought stress in maize.,Physiol Plant. 2021 Jun
+33159351,100193866,"DNA topoisomerase 2, 6",Modulation of cell cycle progression and chromatin dynamic as tolerance mechanisms to salinity and drought stress in maize.,Physiol Plant. 2021 Jun
+33360236,100384480,POD,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
+33360236,542434,ZmPIP1;1,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
+33360236,541779,ZmPIP1;2,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
+33360236,542644,ZmPIP2;2,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
+33392436,816394,phyB,The maize premature senesence2 encodes for PHYTOCHROME-DEPENDENT LATE-FLOWERING and its expression modulation improves agronomic traits under abiotic stresses.,Plant Direct. 2020 Dec 29
 33597656,835307,RD29A,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
 33597656,838633,ERD10,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
 33597656,839666,STZ,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
 33597656,815949,PR1,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
 33597656,824893,PR2,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
 33597656,843842,PR5,Overexpression of ZmWRKY65 transcription factor from maize confers stress resistances in transgenic Arabidopsis.,Sci Rep. 2021 Feb 17
-35839657,100283060,ethylene response factor,Overexpression of ZmEREBP60 enhances drought tolerance in maize.,J Plant Physiol. 2022 Aug
-37147346,100274012,superoxide dismutase,Characterization of ZmPMP3g function in drought tolerance of maize.,Sci Rep
-38575869,837559,mitogen-activated protein kinase,Maize ZmLAZ1-3 gene negatively regulates drought tolerance in transgenic Arabidopsis.,BMC Plant Biol
-38945803,28721236,peroxidase,ZmWRKY30 modulates drought tolerance in maize by influencing myo-inositol and reactive oxygen species homeostasis.,Physiol Plant
-39112960,6622,NAC,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
-39112960,4602,MYB,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
-39112960,7020,AP2,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
-39279862,28721236,peroxidase,Heterologous expression of the maize transcription factor ZmbHLH36 enhances abiotic stress tolerance in Arabidopsis.,
-39574449,820263,MSD1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
-39574449,837304,ascorbate peroxidase 1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
-39574449,832773,AtNHX1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
-39719935,542230,CAT2,Enhancing maize drought and heat tolerance: single vs combined plant growth promoting rhizobacterial inoculation.,Front Plant Sci
-39719935,542251,DHN2,Enhancing maize drought and heat tolerance: single vs combined plant growth promoting rhizobacterial inoculation.,Front Plant Sci
-39729258,11181,trehalase,Maize drought protection by Azospirillum argentinense Az19 requires bacterial trehalose accumulation.,Appl Microbiol Biotechnol
-39819332,103634644,Phylloplanin-like,CRISPR-Cas9-mediated editing of ZmPL1 gene improves tolerance to drought stress in maize.,GM Crops Food
-39928574,100274012,superoxide dismutase,The maize GSK3-like kinase ZmSK1 negatively regulates drought tolerance by phosphorylating the transcription factor ZmCPP2.,Plant Cell
-40102048,839623,LCR,Maize mutants in miR394-regulated genes show improved drought tolerance.,Physiol Plant
-40215297,100281364,bZIP89,Natural variation in a cortex/epidermis-specific transcription factor bZIP89 determines lateral root development and drought resilience in maize.,Sci Adv
-41168446,100191234,diaminopimelate epimerase,Natural variation in ZmDapF1 enhances maize drought resilience.,Nat Plants
-41527164,541618,ZmMPK5,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
-41527164,542468,ZmOCL1,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
-41527164,542251,dehydrin,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
-41527164,542029,peroxidase,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
-41527164,100381337,mitogen-activated protein kinase,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
-25199535,542176,PP2C,Maize protein phosphatase gene family: identification and molecular characterization.,BMC Genomics. 2014 Sep 9
-33360236,100384480,POD,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
-33360236,542434,ZmPIP1;1,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
-33360236,541779,ZmPIP1;2,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
-33360236,542644,ZmPIP2;2,Zinc regulates the hydraulic response of maize root under water stress conditions.,Plant Physiol Biochem. 2021 Feb
+33613597,107773042,peroxidase,Overexpression of DBF-Interactor Protein 6 Containing an R3H Domain Enhances Drought Tolerance in Populus L. (Populus tomentosa).,Front Plant Sci. 2021 Feb 4
+33613597,107799583,catalase,Overexpression of DBF-Interactor Protein 6 Containing an R3H Domain Enhances Drought Tolerance in Populus L. (Populus tomentosa).,Front Plant Sci. 2021 Feb 4
+33868332,100274012,superoxide dismutase,Maize ZmbZIP33 Is Involved in Drought Resistance and Recovery Ability Through an Abscisic Acid-Dependent Signaling Pathway.,Front Plant Sci. 2021 Apr 1
+33868332,28721236,peroxidase,Maize ZmbZIP33 Is Involved in Drought Resistance and Recovery Ability Through an Abscisic Acid-Dependent Signaling Pathway.,Front Plant Sci. 2021 Apr 1
+34031958,732788,ZmDREB2A,ZmbHLH124 identified in maize recombinant inbred lines contributes to drought tolerance in crops.,Plant Biotechnol J. 2021 Oct
+34165656,103643254,receptor-like protein kinase,Development of stable transgenic maize plants tolerant for drought by manipulating ABA signaling through Agrobacterium-mediated transformation.,J Genet Eng Biotechnol. 2021 Jun 24
+34245030,541692,sigma factor,Drought-tolerant Pseudomonas sp. showed differential expression of stress-responsive genes and induced drought tolerance in Arabidopsis thaliana.,Physiol Plant. 2022 Jan
+34455034,100280441,cysteine protease,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34455034,542702,phospholipase D,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34455034,100285115,phenylalanine ammonia-lyase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34455034,542735,cinnamoyl CoA reductase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34455034,542663,cinnamyl alcohol dehydrogenase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34455034,542029,peroxidase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
+34571770,542143,ZmMPK6,ZmWRKY104 Transcription Factor Phosphorylated by ZmMPK6 Functioning in ABA-Induced Antioxidant Defense and Enhance Drought Tolerance in Maize.,Biology (Basel). 2021 Sep 10
+34576244,100857064,WRKY Transcription Factor,Maize WRKY Transcription Factor ZmWRKY79 Positively Regulates Drought Tolerance through Elevating ABA Biosynthesis.,Int J Mol Sci. 2021 Sep 18
+34628174,100147737,WRKY,Physiological and transcriptomic analyses of the effects of exogenous melatonin on drought tolerance in maize (Zea mays L.).,Plant Physiol Biochem. 2021 Nov
 34825009,100274012,superoxide dismutase,Identification of Candidate Genes for Drought Tolerance at Maize Seedlings Using Genome-Wide Association.,Iran J Biotechnol. 2021 Jul 1
 34825009,100279803,EREB160,Identification of Candidate Genes for Drought Tolerance at Maize Seedlings Using Genome-Wide Association.,Iran J Biotechnol. 2021 Jul 1
 34825009,100281369,glutathione S-transferase,Identification of Candidate Genes for Drought Tolerance at Maize Seedlings Using Genome-Wide Association.,Iran J Biotechnol. 2021 Jul 1
+34873716,100283060,Ethylene response factor,ZmERF21 directly regulates hormone signaling and stress-responsive gene expression to influence drought tolerance in maize seedlings.,Plant Cell Environ. 2022 Feb
 34891072,100857067,NAC transcription factor,"ZmSNAC13, a maize NAC transcription factor conferring enhanced resistance to multiple abiotic stresses in transgenic Arabidopsis.",Plant Physiol Biochem. 2022 Jan 1
 34891072,103629107,CUC2,"ZmSNAC13, a maize NAC transcription factor conferring enhanced resistance to multiple abiotic stresses in transgenic Arabidopsis.",Plant Physiol Biochem. 2022 Jan 1
 34891072,838452,PYL9,"ZmSNAC13, a maize NAC transcription factor conferring enhanced resistance to multiple abiotic stresses in transgenic Arabidopsis.",Plant Physiol Biochem. 2022 Jan 1
@@ -51,83 +256,80 @@ pmid,gene_id,gene_text,title,journal
 34891072,823706,MPK3,"ZmSNAC13, a maize NAC transcription factor conferring enhanced resistance to multiple abiotic stresses in transgenic Arabidopsis.",Plant Physiol Biochem. 2022 Jan 1
 34895535,542176,PP2C,Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.,Plant Sci. 2022 Jan
 34895535,100384480,POD,Overexpression of ZmPP2C55 positively enhances tolerance to drought stress in transgenic maize plants.,Plant Sci. 2022 Jan
+34922349,819662,CAND2,Maize PHYTOMELATONIN RECEPTOR1 functions in plant tolerance to osmotic and drought stress.,J Exp Bot. 2022 Sep 30
+34925395,100286089,protein phosphatase 2C,Network Analysis of Different Exogenous Hormones on the Regulation of Deep Sowing Tolerance in Maize Seedlings.,Front Plant Sci. 2021 Dec 2
+34966404,542737,ADP-glucose pyrophosphorylase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
+34966404,103647543,phosphoenolpyruvate carboxylase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
+34966404,542278,nitrate reductase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
+34966404,542264,nitrite reductase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
+34966404,542710,glutamate synthase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
+35193744,541622,phosphoenolpyruvate carboxykinase,"Overexpression of ZmPCK2, a phosphoenolpyruvate carboxykinase gene from maize confers enhanced tolerance to water deficit stress in rice.",Plant Sci. 2022 Apr
+35279440,542476,APX,The transcription factor ZmMYB-CC10 improves drought tolerance by activating ZmAPX4 expression in maize.,Biochem Biophys Res Commun. 2022 May 14
+35360304,100282648,GRMZM2G168365,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
+35360304,100279767,GRMZM2G470499,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
+35360304,100194263,GRMZM2G028982,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
+35360304,103641424,GRMZM2G381691,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
+35400885,100384480,POD,Genome-wide identification of HD-ZIP transcription factors in maize and their regulatory roles in promoting drought tolerance.,Physiol Mol Biol Plants. 2022 Feb
+35463404,542176,PP2C,ZmPP2C26 Alternative Splicing Variants Negatively Regulate Drought Tolerance in Maize.,Front Plant Sci. 2022 Apr 8
+35463404,100381337,MAPK,ZmPP2C26 Alternative Splicing Variants Negatively Regulate Drought Tolerance in Maize.,Front Plant Sci. 2022 Apr 8
+35535627,100191795,MAPKKK,"Genome-wide identification and characterization of the MAPKKK, MKK, and MPK families in Chinese elite maize inbred line Huangzaosi.",Plant Genome. 2022 Sep
+35535627,100381337,MAPK,"Genome-wide identification and characterization of the MAPKKK, MKK, and MPK families in Chinese elite maize inbred line Huangzaosi.",Plant Genome. 2022 Sep
+35696901,838105,WAX INDUCER1,"ZmEREB46, a maize ortholog of Arabidopsis WAX INDUCER1/SHINE1, is involved in the biosynthesis of leaf epicuticular very-long-chain waxes and drought tolerance.",Plant Sci. 2022 Aug
+35839657,100283060,ethylene response factor,Overexpression of ZmEREBP60 enhances drought tolerance in maize.,J Plant Physiol. 2022 Aug
 35991451,100381337,MAPK,Transcriptomic and physiological responses of contrasting maize genotypes to drought stress.,Front Plant Sci. 2022 Aug 3
+35991458,541983,Polyamine Oxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
+35991458,817715,glutathione peroxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
+35991458,837304,ascorbate peroxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
+36204058,8846,AlkB,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
+36204058,6647,SOD,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
+36204058,847,CAT,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
+36247625,103318426,miR408a,Integration of mRNA and microRNA analysis reveals the molecular mechanisms underlying drought stress tolerance in maize (Zea mays L.).,Front Plant Sci. 2022 Sep 29
+36247625,542029,peroxidase,Integration of mRNA and microRNA analysis reveals the molecular mechanisms underlying drought stress tolerance in maize (Zea mays L.).,Front Plant Sci. 2022 Sep 29
+36354146,103318212,miR166a,Positional cloning and characterization reveal the role of a miRNA precursor gene ZmLRT in the regulation of lateral root number and drought tolerance in maize.,J Integr Plant Biol. 2023 Mar
+36430587,542253,AN1,Identification and Analysis of Stress-Associated Proteins (SAPs) Protein Family and Drought Tolerance of ZmSAP8 in Transgenic Arabidopsis.,Int J Mol Sci. 2022 Nov 15
+36444538,542356,ZmMEK1,The clade F PP2C phosphatase ZmPP84 negatively regulates drought tolerance by repressing stomatal closure in maize.,New Phytol. 2023 Mar
 36470036,542373,LEA-2,Functional analysis of a late embryogenesis abundant protein ZmNHL1 in maize under drought stress.,J Plant Physiol. 2023 Jan
 36470036,100384480,POD,Functional analysis of a late embryogenesis abundant protein ZmNHL1 in maize under drought stress.,J Plant Physiol. 2023 Jan
+36505298,542352,PR-1,Genome-wide analysis of maize PR-1 gene family and expression profiles induced by plant hormones and fungal phytopathogens.,Am J Transl Res. 2022 Nov 15
 36511119,542619,ZmPIP2;5,Coronatine promotes maize water uptake by directly binding to the aquaporin ZmPIP2;5 and enhancing its activity.,J Integr Plant Biol. 2023 Mar
+36617652,542117,bx1,Application of data fusion modeling for the prediction of auxin response elements in Zea mays for food security purposes.,Genomics Inform. 2022 Dec
+36743547,103629107,CUC2,Transcriptome analysis in contrasting maize inbred lines and functional analysis of five maize NAC genes under drought stress treatment.,Front Plant Sci. 2023 Jan 19
+36875585,100279868,GRMZM2G016649,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
+36875585,100277279,GRMZM2G025685,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
+36875585,100501819,GRMZM2G312419,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
+36875585,100280344,GRMZM2G064159,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
+36875585,100279508,GRMZM2G146192,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
+36902144,100857067,NAC transcription factor,Transcription Factor ZmNAC20 Improves Drought Resistance by Promoting Stomatal Closure and Activating Expression of Stress-Responsive Genes in Maize.,Int J Mol Sci. 2023 Mar 1
+36944863,842070,Hap5B,Novel function of a putative TaCOBL ortholog associated with cold response.,Mol Biol Rep. 2023 May
+37005332,100125638,GBSSIIa,"A New Insight into the Biosynthesis, Structure and Functionality of Waxy Maize Starch under Drought Stress.",J Sci Food Agric. 2023 Aug 30
+37147346,100274012,superoxide dismutase,Characterization of ZmPMP3g function in drought tolerance of maize.,Sci Rep
+37163805,542258,PAL,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
+37163805,542166,4CL,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
+37163805,100286107,DFR,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
+37265635,100274012,superoxide dismutase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
+37265635,542029,peroxidase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
+37265635,100286773,ascorbate peroxidase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
+37309519,100384480,POD,A bHLH transcription factor from Chenopodium glaucum confers drought tolerance to transgenic maize by positive regulation of morphological and physiological performances and stress-responsive genes' expressions.,
+37309532,100381337,MAPK,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
+37309532,542029,peroxidase,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
+37309532,100147737,WRKY,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
 37479884,541974,KS,"A gibberellin-deficient maize mutant exhibits altered plant height, stem strength and drought tolerance.",Plant Cell Rep
 37538054,818566,P5CS1,Acetic acid positively modulates proline metabolism for mitigating PEG-mediated drought stress in Maize and Arabidopsis.,Front Plant Sci
 37803273,103640895,GRMZM2G370026,Molecular mechanisms of drought resistance using genome-wide association mapping in maize (Zea mays L.).,BMC Plant Biol
 37803273,100170665,GRMZM2G347043,Molecular mechanisms of drought resistance using genome-wide association mapping in maize (Zea mays L.).,BMC Plant Biol
-38269194,100384480,POD,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
-38269194,100381337,MAPK,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
-38269194,100381478,bHLH 35,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
-38705046,732788,ZmDREB2A,Regulatory mechanisms used by ZmMYB39 to enhance drought tolerance in maize (Zea mays) seedlings.,Plant Physiol Biochem
-38878261,834355,PHT1;2,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
-38878261,817943,PHO2,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
-38878261,837792,PHR1,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
-38900753,5077,CDHS,Genetic analysis of tolerance to combined drought and heat stress in tropical maize.,PLoS One
-38970906,100274012,superoxide dismutase,"Physiological and genomic insights into a psychrotrophic drought-tolerant bacterial consortium for crop improvement in cold, semiarid regions.",Microbiol Res
-39037027,23210,PSR,ZmPHR1 contributes to drought resistance by modulating phosphate homeostasis in maize.,Plant Biotechnol J
-39190817,100279563,rth3,Cold mediates maize root hair developmental plasticity via epidermis-specific transcriptomic responses.,Plant Physiol
-39718137,28721236,peroxidase,"ZmNF-YB10, a maize NF-Y transcription factor, positively regulates drought and salt stress response in Arabidopsis thaliana.",GM Crops Food
-39718137,829661,catalase,"ZmNF-YB10, a maize NF-Y transcription factor, positively regulates drought and salt stress response in Arabidopsis thaliana.",GM Crops Food
-41014949,542166,4-Coumarate coenzyme A ligase,The Zm4CL2 gene regulates drought stress response in Zea mays L.,Plant Physiol Biochem
-18713346,818854,COR15a,Isolation and characterization of a C-repeat binding transcription factor from maize.,J Integr Plant Biol. 2008 Aug
-18713346,828652,CBF3,Isolation and characterization of a C-repeat binding transcription factor from maize.,J Integr Plant Biol. 2008 Aug
-27085597,100857067,NAC transcription factor,"ZmNAC55, a maize stress-responsive NAC transcription factor, confers drought resistance in transgenic Arabidopsis.",Plant Physiol Biochem. 2016 Aug
-28474114,542369,catalase1,"ABP9, a maize bZIP transcription factor, enhances tolerance to salt and drought in transgenic cotton.",Planta. 2017 Sep
-28482333,100384480,POD,Ethephon improved drought tolerance in maize seedlings by modulating cuticular wax biosynthesis and membrane stability.,J Plant Physiol. 2017 Jul
-28861611,100857064,WRKY transcription factor,The maize WRKY transcription factor ZmWRKY17 negatively regulates salt stress tolerance in transgenic Arabidopsis plants.,Planta. 2017 Dec
-29852332,100274012,superoxide dismutase,Physiological and proteomic analysis of maize seedling response to water deficiency stress.,J Plant Physiol. 2018 Sep
-31065486,541904,EXPA1,Isolation and characterization of water-deficit stress-responsive alpha-expansin 1 (EXPA1) gene from Saccharum complex.,3 Biotech. 2019 May
-33868332,100274012,superoxide dismutase,Maize ZmbZIP33 Is Involved in Drought Resistance and Recovery Ability Through an Abscisic Acid-Dependent Signaling Pathway.,Front Plant Sci. 2021 Apr 1
-33868332,28721236,peroxidase,Maize ZmbZIP33 Is Involved in Drought Resistance and Recovery Ability Through an Abscisic Acid-Dependent Signaling Pathway.,Front Plant Sci. 2021 Apr 1
-34873716,100283060,Ethylene response factor,ZmERF21 directly regulates hormone signaling and stress-responsive gene expression to influence drought tolerance in maize seedlings.,Plant Cell Environ. 2022 Feb
-35463404,542176,PP2C,ZmPP2C26 Alternative Splicing Variants Negatively Regulate Drought Tolerance in Maize.,Front Plant Sci. 2022 Apr 8
-35463404,100381337,MAPK,ZmPP2C26 Alternative Splicing Variants Negatively Regulate Drought Tolerance in Maize.,Front Plant Sci. 2022 Apr 8
-37163805,542258,PAL,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
-37163805,542166,4CL,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
-37163805,100286107,DFR,Integrative transcriptome and metabolome analysis reveals the mechanism of exogenous melatonin alleviating drought stress in maize roots.,Plant Physiol Biochem
-38277077,542365,Sucrose synthase,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
-38277077,541868,sucrose phosphatase,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
-38277077,542711,sucrose phosphate synthase gene,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
-38750241,100275168,Dof22,Transcription factor ZmDof22 enhances drought tolerance by regulating stomatal movement and antioxidant enzymes activities in maize (Zea mays L.).,Theor Appl Genet
-38804844,6010,Rho,Phosphorylation of ZmAL14 by ZmSnRK2.2 regulates drought resistance through derepressing ZmROP8 expression.,J Integr Plant Biol
-39358657,100274012,superoxide dismutase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
-39358657,542029,peroxidase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
-39358657,100286773,ascorbate peroxidase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
-40027706,7020,AP2,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
-40027706,2077,ERF,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
-40027706,7504,NAC,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
-40027706,3569,HSF,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
-40107433,107781159,cytochrome b5,"ZmCYB5-1, a cytochrome b5 Gene, negatively regulates drought stress tolerance in maize.",Gene
-41039911,542710,glutamate synthase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
-41039911,542278,nitrate reductase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
-41039911,100856888,glutamate dehydrogenase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
-41039911,100856906,asparagine synthetase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
-18349516,845178,matK,Identification of drought-responsive genes from maize inbred lines.,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2007 Dec
-18349516,100037769,maturase,Identification of drought-responsive genes from maize inbred lines.,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2007 Dec
-27316630,107773042,peroxidase,Overexpression of sugarcane gene SoSnRK2.1 confers drought tolerance in transgenic tobacco.,Plant Cell Rep. 2016 Sep
-27316630,107799583,catalase,Overexpression of sugarcane gene SoSnRK2.1 confers drought tolerance in transgenic tobacco.,Plant Cell Rep. 2016 Sep
-28779129,542637,CKII,Functional characterization of KS-type dehydrin ZmDHN13 and its related conserved domains under oxidative stress.,Sci Rep. 2017 Aug 4
-29223066,100192952,Ubiquitin,Overexpression of the maize E3 ubiquitin ligase gene ZmAIRP4 enhances drought stress tolerance in Arabidopsis.,Plant Physiol Biochem. 2018 Feb
-30137393,103636015,bHLH92,Dual functions of ZmNF-YA3 in photoperiod-dependent flowering and abiotic stress responses in maize.,J Exp Bot. 2018 Oct 12
-30919915,826884,AtNUDX7,"Functional analysis of Arabidopsis and maize transgenic lines overexpressing the ADP-ribose/NADH pyrophosphohydrolase, AtNUDX7.",Int J Dev Biol. 2019
-31367213,100283990,RNA binding protein,Expression analysis of Argonaute genes in maize (Zea mays L.) in response to abiotic stress.,Hereditas. 2019 Jul 24
-32255934,100857067,NAC transcription factor,Genome-wide analysis of NAC transcription factor family in maize under drought stress and rewatering.,Physiol Mol Biol Plants. 2020 Apr
-34031958,732788,ZmDREB2A,ZmbHLH124 identified in maize recombinant inbred lines contributes to drought tolerance in crops.,Plant Biotechnol J. 2021 Oct
-34165656,103643254,receptor-like protein kinase,Development of stable transgenic maize plants tolerant for drought by manipulating ABA signaling through Agrobacterium-mediated transformation.,J Genet Eng Biotechnol. 2021 Jun 24
-34245030,541692,sigma factor,Drought-tolerant Pseudomonas sp. showed differential expression of stress-responsive genes and induced drought tolerance in Arabidopsis thaliana.,Physiol Plant. 2022 Jan
-35193744,541622,phosphoenolpyruvate carboxykinase,"Overexpression of ZmPCK2, a phosphoenolpyruvate carboxykinase gene from maize confers enhanced tolerance to water deficit stress in rice.",Plant Sci. 2022 Apr
-35400885,100384480,POD,Genome-wide identification of HD-ZIP transcription factors in maize and their regulatory roles in promoting drought tolerance.,Physiol Mol Biol Plants. 2022 Feb
-35535627,100191795,MAPKKK,"Genome-wide identification and characterization of the MAPKKK, MKK, and MPK families in Chinese elite maize inbred line Huangzaosi.",Plant Genome. 2022 Sep
-35535627,100381337,MAPK,"Genome-wide identification and characterization of the MAPKKK, MKK, and MPK families in Chinese elite maize inbred line Huangzaosi.",Plant Genome. 2022 Sep
-36505298,542352,PR-1,Genome-wide analysis of maize PR-1 gene family and expression profiles induced by plant hormones and fungal phytopathogens.,Am J Transl Res. 2022 Nov 15
-36743547,103629107,CUC2,Transcriptome analysis in contrasting maize inbred lines and functional analysis of five maize NAC genes under drought stress treatment.,Front Plant Sci. 2023 Jan 19
 38166714,102577694,peroxidase,Genome-wide analysis of the U-box E3 ligases gene family in potato (Solanum tuberosum L.) and overexpress StPUB25 enhance drought tolerance in transgenic Arabidopsis.,BMC Genomics
 38185653,542228,indole-3-acetaldehyde oxidase,Utilizing transcriptomics and metabolomics to unravel key genes and metabolites of maize seedlings in response to drought stress.,BMC Plant Biol
 38185653,542369,catalase 1,Utilizing transcriptomics and metabolomics to unravel key genes and metabolites of maize seedlings in response to drought stress.,BMC Plant Biol
+38269194,100384480,POD,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
+38269194,100381337,MAPK,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
+38269194,100381478,bHLH 35,Physiological Characteristic Changes and Transcriptome Analysis of Maize (Zea mays L.) Roots under Drought Stress.,Int J Genomics
+38277077,542365,Sucrose synthase,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
+38277077,541868,sucrose phosphatase,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
+38277077,542711,sucrose phosphate synthase gene,Overexpression of ZmSUS1 increased drought resistance of maize (Zea mays L.) by regulating sucrose metabolism and soluble sugar content.,Planta
+38337873,542176,PP2C,Identification of the Maize PP2C Gene Family and Functional Studies on the Role of ZmPP2C15 in Drought Tolerance.,
+38337873,28721236,peroxidase,Identification of the Maize PP2C Gene Family and Functional Studies on the Role of ZmPP2C15 in Drought Tolerance.,
+38337873,837304,ascorbate peroxidase,Identification of the Maize PP2C Gene Family and Functional Studies on the Role of ZmPP2C15 in Drought Tolerance.,
+38337873,829661,catalase,Identification of the Maize PP2C Gene Family and Functional Studies on the Role of ZmPP2C15 in Drought Tolerance.,
 38402801,845202,psbD,"Hesperidin and chlorogenic acid mitigate arsenic-induced oxidative stress via redox regulation, photosystems-related gene expression, and antioxidant efficiency in the chloroplasts of Zea mays.",
 38402801,845195,psaA,"Hesperidin and chlorogenic acid mitigate arsenic-induced oxidative stress via redox regulation, photosystems-related gene expression, and antioxidant efficiency in the chloroplasts of Zea mays.",
 38402801,845196,psaB,"Hesperidin and chlorogenic acid mitigate arsenic-induced oxidative stress via redox regulation, photosystems-related gene expression, and antioxidant efficiency in the chloroplasts of Zea mays.",
@@ -136,177 +338,67 @@ pmid,gene_id,gene_text,title,journal
 38556556,100280932,dehydration responsive element binding protein,"Genome-wide identification and evolutionary analysis of the AP2/EREBP, COX and LTP genes in Zea mays L. under drought stress.",Sci Rep
 38556556,815994,LTP,"Genome-wide identification and evolutionary analysis of the AP2/EREBP, COX and LTP genes in Zea mays L. under drought stress.",Sci Rep
 38556556,100280743,LTP-3,"Genome-wide identification and evolutionary analysis of the AP2/EREBP, COX and LTP genes in Zea mays L. under drought stress.",Sci Rep
+38571713,835478,CUC2,A new model construction based on the knowledge graph for mining elite polyphenotype genes in crops.,Front Plant Sci
+38575869,837559,mitogen-activated protein kinase,Maize ZmLAZ1-3 gene negatively regulates drought tolerance in transgenic Arabidopsis.,BMC Plant Biol
+38600703,100820031,squalene monooxygenase,Soybean steroids improve crop abiotic stress tolerance and increase yield.,Plant Biotechnol J
 38626656,113235,proton-coupled folate transporter,"Two maize homologs of mammalian proton-coupled folate transporter, ZmMFS_1-62 and ZmMFS_1-73, are essential to salt and drought tolerance.",Plant Physiol Biochem
+38673792,6647,SOD,Aquaporin ZmTIP2;3 Promotes Drought Resistance of Maize through Symbiosis with Arbuscular Mycorrhizal Fungi.,Int J Mol Sci
+38705046,732788,ZmDREB2A,Regulatory mechanisms used by ZmMYB39 to enhance drought tolerance in maize (Zea mays) seedlings.,Plant Physiol Biochem
+38750241,100275168,Dof22,Transcription factor ZmDof22 enhances drought tolerance by regulating stomatal movement and antioxidant enzymes activities in maize (Zea mays L.).,Theor Appl Genet
+38804844,6010,Rho,Phosphorylation of ZmAL14 by ZmSnRK2.2 regulates drought resistance through derepressing ZmROP8 expression.,J Integr Plant Biol
+38878261,834355,PHT1;2,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
+38878261,817943,PHO2,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
+38878261,837792,PHR1,Maize auxin response factor ZmARF1 confers multiple abiotic stresses resistances in transgenic Arabidopsis.,Plant Mol Biol
+38900753,5077,CDHS,Genetic analysis of tolerance to combined drought and heat stress in tropical maize.,PLoS One
+38945803,28721236,peroxidase,ZmWRKY30 modulates drought tolerance in maize by influencing myo-inositol and reactive oxygen species homeostasis.,Physiol Plant
+38970906,100274012,superoxide dismutase,"Physiological and genomic insights into a psychrotrophic drought-tolerant bacterial consortium for crop improvement in cold, semiarid regions.",Microbiol Res
 39024420,541899,TONOPLAST INTRINSIC PROTEIN 4;3,Genetic variation in the aquaporin TONOPLAST INTRINSIC PROTEIN 4;3 modulates maize cold tolerance.,Plant Biotechnol J
 39024420,541894,TIP2;1,Genetic variation in the aquaporin TONOPLAST INTRINSIC PROTEIN 4;3 modulates maize cold tolerance.,Plant Biotechnol J
 39024420,541912,TIP3;2,Genetic variation in the aquaporin TONOPLAST INTRINSIC PROTEIN 4;3 modulates maize cold tolerance.,Plant Biotechnol J
 39024420,541957,DEHYDRATION-RESPONSIVE ELEMENT BINDING FACTOR 1,Genetic variation in the aquaporin TONOPLAST INTRINSIC PROTEIN 4;3 modulates maize cold tolerance.,Plant Biotechnol J
-39988889,28721236,peroxidase,Maize 4-coumarate coenzyme A ligase Zm4CL-like9 gene positively regulates drought stress response in Arabidopsis thaliana.,GM Crops Food
-40204192,542029,peroxidase,Overexpression of maize transcription factor ZmNF-YC14 positively regulates drought and salt stress responses in Arabidopsis thaliana.,Plant Sci
-40204192,100274012,superoxide dismutase,Overexpression of maize transcription factor ZmNF-YC14 positively regulates drought and salt stress responses in Arabidopsis thaliana.,Plant Sci
-40774573,542029,POD,ZmPOD5 positively regulates drought tolerance by modulating ROS production.,Plant Sci
-40774573,100274012,superoxide dismutase,ZmPOD5 positively regulates drought tolerance by modulating ROS production.,Plant Sci
-40944734,100284066,polygalacturonase,ZmWAK3-mediated cell wall remodeling and stomatal dynamics modulate drought tolerance in maize seedlings.,Theor Appl Genet
-21437581,542324,ivr2,An analysis of the polymorphisms in a gene for being involved in drought tolerance in maize.,Genetica. 2011 Apr
-22279089,100147737,WRKY,Molecular phylogenetic and expression analysis of the complete WRKY transcription factor family in maize.,DNA Res. 2012 Apr
-22610487,100170665,ZmSNAC1,"A maize stress-responsive NAC transcription factor, ZmSNAC1, confers enhanced tolerance to dehydration in transgenic Arabidopsis.",Plant Cell Rep. 2012 Sep
-22837360,100284615,phospholipase C,Effects of drought on gene expression in maize reproductive and leaf meristem tissue revealed by RNA-Seq.,Plant Physiol. 2012 Oct
-22837360,542590,invertase,Effects of drought on gene expression in maize reproductive and leaf meristem tissue revealed by RNA-Seq.,Plant Physiol. 2012 Oct
-23415326,100192952,ubiquitin,A rice stress-responsive NAC gene enhances tolerance of transgenic wheat to drought and salt stresses.,Plant Sci. 2013 Apr
-23415326,542711,sucrose phosphate synthase,A rice stress-responsive NAC gene enhances tolerance of transgenic wheat to drought and salt stresses.,Plant Sci. 2013 Apr
-23884600,100382324,GRMZM2G125777,Genome-wide association analysis for nine agronomic traits in maize under well-watered and water-stressed conditions.,Theor Appl Genet. 2013 Oct
-24483851,822061,ABA-Insensitive3,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-24483851,818199,AtABI5,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-24483851,843216,AtRAV2,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-24483851,829547,AtABF3,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-24483851,837886,AtRAV1/2,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-24483851,843221,bZIP,Related to ABA-Insensitive3(ABI3)/Viviparous1 and AtABI5 transcription factor coexpression in cotton enhances drought stress adaptation.,Plant Biotechnol J. 2014 Jun
-26584560,732788,ZmDREB2A,"ZmGOLS2, a target of transcription factor ZmDREB2A, offers similar protection against abiotic stress as ZmDREB2A.",Plant Mol Biol. 2016 Jan
-26584560,606405,GALACTINOL SYNTHASE2,"ZmGOLS2, a target of transcription factor ZmDREB2A, offers similar protection against abiotic stress as ZmDREB2A.",Plant Mol Biol. 2016 Jan
-27442592,541664,GOS2,ARGOS8 variants generated by CRISPR-Cas9 improve maize grain yield under field drought stress conditions.,Plant Biotechnol J. 2017 Feb
-28175341,100037819,leafbladeless1,Natural antisense transcripts are significantly involved in regulation of drought stress in maize.,Nucleic Acids Res. 2017 May 19
-30798172,829661,catalase,Expression of the maize MYB transcription factor ZmMYB3R enhances drought and salt stress tolerance in transgenic plants.,Plant Physiol Biochem. 2019 Apr
-30798172,28721236,peroxidase,Expression of the maize MYB transcription factor ZmMYB3R enhances drought and salt stress tolerance in transgenic plants.,Plant Physiol Biochem. 2019 Apr
-32097847,821227,glutathione-s-transferase,Investigating the role of Bowman-Birk serine protease inhibitor in Arabidopsis plants under drought stress.,Plant Physiol Biochem. 2020 Apr
-32097847,837304,ascorbate peroxidase,Investigating the role of Bowman-Birk serine protease inhibitor in Arabidopsis plants under drought stress.,Plant Physiol Biochem. 2020 Apr
-32662115,732788,ZmDREB2A,"ZmDREB2A regulates ZmGH3.2 and ZmRAFS, shifting metabolism towards seed aging tolerance over seedling growth.",Plant J. 2020 Sep
-35696901,838105,WAX INDUCER1,"ZmEREB46, a maize ortholog of Arabidopsis WAX INDUCER1/SHINE1, is involved in the biosynthesis of leaf epicuticular very-long-chain waxes and drought tolerance.",Plant Sci. 2022 Aug
-35991458,541983,Polyamine Oxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
-35991458,817715,glutathione peroxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
-35991458,837304,ascorbate peroxidase,Genome-Wide Identification and Functional Analysis of Polyamine Oxidase Genes in Maize Reveal Essential Roles in Abiotic Stress Tolerance.,Front Plant Sci. 2022 Aug 4
-36247625,103318426,miR408a,Integration of mRNA and microRNA analysis reveals the molecular mechanisms underlying drought stress tolerance in maize (Zea mays L.).,Front Plant Sci. 2022 Sep 29
-36247625,542029,peroxidase,Integration of mRNA and microRNA analysis reveals the molecular mechanisms underlying drought stress tolerance in maize (Zea mays L.).,Front Plant Sci. 2022 Sep 29
-37005332,100125638,GBSSIIa,"A New Insight into the Biosynthesis, Structure and Functionality of Waxy Maize Starch under Drought Stress.",J Sci Food Agric. 2023 Aug 30
-37265635,100274012,superoxide dismutase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
-37265635,542029,peroxidase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
-37265635,100286773,ascorbate peroxidase,Genome-wide identification of NF-Y gene family in maize (Zea mays L.) and the positive role of ZmNF-YC12 in drought resistance and recovery ability.,Front Plant Sci
-37309532,100381337,MAPK,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
-37309532,542029,peroxidase,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
-37309532,100147737,WRKY,Meta-QTL analysis and candidate genes identification for various abiotic stresses in maize (Zea mays L.) and their implications in breeding programs.,Mol Breed
+39037027,23210,PSR,ZmPHR1 contributes to drought resistance by modulating phosphate homeostasis in maize.,Plant Biotechnol J
+39112960,6622,NAC,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
+39112960,4602,MYB,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
+39112960,7020,AP2,Ultrasonic treatment can improve maize seed germination and abiotic stress resistance.,BMC Plant Biol
+39190817,100279563,rth3,Cold mediates maize root hair developmental plasticity via epidermis-specific transcriptomic responses.,Plant Physiol
+39279862,28721236,peroxidase,Heterologous expression of the maize transcription factor ZmbHLH36 enhances abiotic stress tolerance in Arabidopsis.,
 39280952,841765,AtPEPC1,Enhanced drought tolerance and photosynthetic efficiency in Arabidopsis by overexpressing phosphoenolpyruvate carboxylase from a single-cell C4 halophyte Suaeda aralocaspica.,Front Plant Sci
 39280952,827226,pyruvate orthophosphate dikinase,Enhanced drought tolerance and photosynthetic efficiency in Arabidopsis by overexpressing phosphoenolpyruvate carboxylase from a single-cell C4 halophyte Suaeda aralocaspica.,Front Plant Sci
-40576572,732805,GL15,Genetic interaction between GL15 and FDL1 modulates juvenile cuticle deposition and leaf permeability in maize.,
-17852355,100126542,H+-translocating pyrophosphatase,Molecular cloning and characterization of a novel H+-translocating pyrophosphatase gene in Zea mays.,DNA Seq. 2008 Apr
-19638676,542663,cinnamyl alcohol dehydrogenase,Differential expression of candidate genes for lignin biosynthesis under drought stress in maize leaves.,J Appl Genet. 2009
-20642740,542373,Rab17,Improvement of stress tolerance of wheat and barley by modulation of expression of DREB/CBF factors.,Plant Biotechnol J. 2011 Feb
-23326325,838224,molybdenum cofactor sulfurase,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
-23326325,542228,aldehyde oxidase,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
-23326325,542369,CAT1,Overexpression of Arabidopsis molybdenum cofactor sulfurase gene confers drought tolerance in maize (Zea mays L.).,PLoS One. 2013
-24965356,100192952,UBIQUITIN,OsiSAP1 overexpression improves water-deficit stress tolerance in transgenic rice by affecting expression of endogenous stress-related genes.,Plant Cell Rep. 2014 Sep
-25606426,100170665,ZmSNAC1,Genome-wide identification and expression pattern of drought-responsive members of the NAC family in maize.,Meta Gene. 2014 Jun 1
-25941233,100286773,ascorbate peroxidase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
-25941233,541986,glutathione reductase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
-25941233,100274012,superoxide dismutase,ABA Affects Brassinosteroid-Induced Antioxidant Defense via ZmMAP65-1a in Maize Plants.,Plant Cell Physiol. 2015 Jul
-26773738,548127,cytokinin dehydrogenase,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
-26773738,818749,AtCKX1,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
-26773738,100272792,beta-glucosidase,Transgenic barley overexpressing a cytokinin dehydrogenase gene shows greater tolerance to drought stress.,N Biotechnol. 2016 Sep 25
-29856862,542434,ZmPIP1;1,Overexpression of a maize plasma membrane intrinsic protein ZmPIP1;1 confers drought and salt tolerance in Arabidopsis.,PLoS One. 2018 Jun 1
-29856862,829661,catalase,Overexpression of a maize plasma membrane intrinsic protein ZmPIP1;1 confers drought and salt tolerance in Arabidopsis.,PLoS One. 2018 Jun 1
-29876347,103638645,GRMZM2G140355,"Structural, Functional, and Evolutionary Characterization of Major Drought Transcription Factors Families in Maize.",Front Chem. 2018 May 23
-31930666,100192952,ubiquitin,Expression of the CCCH-tandem zinc finger protein gene OsTZF5 under a stress-inducible promoter mitigates the effect of drought stress on rice grain yield under field conditions.,Plant Biotechnol J. 2020 Aug
-32068157,828792,VTC2,Enhanced Vitamin C Production Mediated by an ABA-Induced PTP-like Nucleotidase Improves Plant Drought Tolerance in Arabidopsis and Maize.,Mol Plant. 2020 May 4
-32068157,834406,HSFA6a,Enhanced Vitamin C Production Mediated by an ABA-Induced PTP-like Nucleotidase Improves Plant Drought Tolerance in Arabidopsis and Maize.,Mol Plant. 2020 May 4
-33159351,100286107,cyclins B1 and A1,Modulation of cell cycle progression and chromatin dynamic as tolerance mechanisms to salinity and drought stress in maize.,Physiol Plant. 2021 Jun
-33159351,100193866,"DNA topoisomerase 2, 6",Modulation of cell cycle progression and chromatin dynamic as tolerance mechanisms to salinity and drought stress in maize.,Physiol Plant. 2021 Jun
-33392436,816394,phyB,The maize premature senesence2 encodes for PHYTOCHROME-DEPENDENT LATE-FLOWERING and its expression modulation improves agronomic traits under abiotic stresses.,Plant Direct. 2020 Dec 29
-34628174,100147737,WRKY,Physiological and transcriptomic analyses of the effects of exogenous melatonin on drought tolerance in maize (Zea mays L.).,Plant Physiol Biochem. 2021 Nov
-36354146,103318212,miR166a,Positional cloning and characterization reveal the role of a miRNA precursor gene ZmLRT in the regulation of lateral root number and drought tolerance in maize.,J Integr Plant Biol. 2023 Mar
-40177019,28721236,peroxidase,Identification of nuclear factor YA6 genes in sorghum and characterization of their involvement in drought tolerance.,Front Plant Sci
-40177019,829661,catalase,Identification of nuclear factor YA6 genes in sorghum and characterization of their involvement in drought tolerance.,Front Plant Sci
-40797183,732818,ITPK1,Genome-wide association study for plant height and ear height in maize under well-watered and water-stressed conditions.,BMC Genomics
-40829341,100274012,superoxide dismutase,"Tonoplast sugar transporter ZmTST1 positively regulates plant growth, salt and drought tolerance.",
-40829341,542029,peroxidase,"Tonoplast sugar transporter ZmTST1 positively regulates plant growth, salt and drought tolerance.",
-40848740,100381337,MAPK,Effects of exogenous GR24 on the growth and gene expression of maize seedlings under drought stress.,Phytochemistry
-40898023,100282383,nucleic acid binding protein,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
-40898023,100193873,ATP synthase,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
-40898023,100857098,glycine-rich RNA-binding protein,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
-11886890,542331,NADP-malic enzyme,Engineering for drought avoidance: expression of maize NADP-malic enzyme in tobacco results in altered stomatal function.,J Exp Bot. 2002 Apr
-15190366,828652,DREB1A,Stress-induced expression in wheat of the Arabidopsis thaliana DREB1A gene delays water stress symptoms under greenhouse conditions.,Genome. 2004 Jun
-15190366,835307,rd29A,Stress-induced expression in wheat of the Arabidopsis thaliana DREB1A gene delays water stress symptoms under greenhouse conditions.,Genome. 2004 Jun
-16362303,4703,nebulin,Changes in gene expression in maize kernel in response to water and salt stress.,Plant Cell Rep. 2006 Feb
-16722342,542363,Adh1,Induced expression of DREB transcriptional factor and study on its physiological effects of drought tolerance in transgenic wheat.,Yi Chuan Xue Bao. 2006 May
-17346263,732788,ZmDREB2A,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
-17346263,541957,DREB1,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
-17346263,830424,DREB2A,Regulation and functional analysis of ZmDREB2A in response to drought and heat stresses in Zea mays L.,Plant J. 2007 Apr
-26560113,103647543,phosphoenolpyruvate carboxylase,Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
-26560113,100281879,chlorophyll A-B binding protein,Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
-27208250,100857067,NAC Transcription Factor,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
-27208250,542762,Calcium/Calmodulin-Dependent Protein Kinase,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
-27208250,732824,CCaMK,Phosphorylation of a NAC Transcription Factor by a Calcium/Calmodulin-Dependent Protein Kinase Regulates Abscisic Acid-Induced Antioxidant Defense in Maize.,Plant Physiol. 2016 Jul
-28344585,100192952,ubiquitin,Ectopic Expression of OsSta2 Enhances Salt Stress Tolerance in Rice.,Front Plant Sci. 2017 Mar 10
-30537614,103647543,phosphoenolpyruvate carboxylase,Exogenous alpha lipoic acid can stimulate photosystem II activity and the gene expressions of carbon fixation and chlorophyll metabolism enzymes in maize seedlings under drought.,J Plant Physiol. 2019 Jan
-30537614,541712,Rubisco activase,Exogenous alpha lipoic acid can stimulate photosystem II activity and the gene expressions of carbon fixation and chlorophyll metabolism enzymes in maize seedlings under drought.,J Plant Physiol. 2019 Jan
-31615416,817173,ERECTA,A leucine-rich repeat-receptor-like kinase gene SbER2-1 from sorghum (Sorghum bicolor L.) confers drought tolerance in maize.,BMC Genomics. 2019 Oct 15
-32035249,100274012,superoxide dismutase,Transcriptome analysis of maize inbred lines differing in drought tolerance provides novel insights into the molecular mechanisms of drought responses in roots.,Plant Physiol Biochem. 2020 Apr
-32035249,100286773,ascorbate peroxidase,Transcriptome analysis of maize inbred lines differing in drought tolerance provides novel insights into the molecular mechanisms of drought responses in roots.,Plant Physiol Biochem. 2020 Apr
-34966404,542737,ADP-glucose pyrophosphorylase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
-34966404,103647543,phosphoenolpyruvate carboxylase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
-34966404,542278,nitrate reductase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
-34966404,542264,nitrite reductase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
-34966404,542710,glutamate synthase,"Melatonin Enhances Drought Tolerance by Regulating Leaf Stomatal Behavior, Carbon and Nitrogen Metabolism, and Related Gene Expression in Maize Plants.",Front Plant Sci. 2021 Dec 13
-36617652,542117,bx1,Application of data fusion modeling for the prediction of auxin response elements in Zea mays for food security purposes.,Genomics Inform. 2022 Dec
-36875585,100279868,GRMZM2G016649,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
-36875585,100277279,GRMZM2G025685,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
-36875585,100501819,GRMZM2G312419,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
-36875585,100280344,GRMZM2G064159,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
-36875585,100279508,GRMZM2G146192,Identification of QTN-by-environment interactions for yield related traits in maize under multiple abiotic stresses.,Front Plant Sci. 2023 Feb 15
-37309519,100384480,POD,A bHLH transcription factor from Chenopodium glaucum confers drought tolerance to transgenic maize by positive regulation of morphological and physiological performances and stress-responsive genes' expressions.,
+39358657,100274012,superoxide dismutase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
+39358657,542029,peroxidase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
+39358657,100286773,ascorbate peroxidase,Ellagic acid alleviates aluminum and/or drought stress through morpho-physiochemical adjustments and stress-related gene expression in Zea mays L.,Environ Sci Pollut Res Int
+39486317,6147,RPL23A,Impact of arbuscular mycorrhizal fungi on maize rhizosphere microbiome stability under moderate drought conditions.,Microbiol Res
+39574449,820263,MSD1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
+39574449,837304,ascorbate peroxidase 1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
+39574449,832773,AtNHX1,The maize gene ZmSBP17 encoding an SBP transcription factor confers osmotic resistance in transgenic Arabidopsis.,Front Plant Sci
+39701983,542029,peroxidase,Functional study of ZmHDZ4 in maize (Zea mays) seedlings under drought stress.,BMC Plant Biol
+39718137,28721236,peroxidase,"ZmNF-YB10, a maize NF-Y transcription factor, positively regulates drought and salt stress response in Arabidopsis thaliana.",GM Crops Food
+39718137,829661,catalase,"ZmNF-YB10, a maize NF-Y transcription factor, positively regulates drought and salt stress response in Arabidopsis thaliana.",GM Crops Food
+39719935,542230,CAT2,Enhancing maize drought and heat tolerance: single vs combined plant growth promoting rhizobacterial inoculation.,Front Plant Sci
+39719935,542251,DHN2,Enhancing maize drought and heat tolerance: single vs combined plant growth promoting rhizobacterial inoculation.,Front Plant Sci
+39729258,11181,trehalase,Maize drought protection by Azospirillum argentinense Az19 requires bacterial trehalose accumulation.,Appl Microbiol Biotechnol
 39814267,28721236,peroxidase,The TIFY Transcription Factor ZmJAZ13 Enhances Plant Tolerance to Drought and Salt Stress by Interacting with ZmbHLH161 and ZmA0A1D6GLB9.,Plant Sci
+39819332,103634644,Phylloplanin-like,CRISPR-Cas9-mediated editing of ZmPL1 gene improves tolerance to drought stress in maize.,GM Crops Food
 39893411,2056,EPO,Genome-wide association mapping and genomic prediction analyses reveal the genetic architecture of grain yield and agronomic traits under drought and optimum conditions in maize.,BMC Plant Biol
 39893411,8288,EPP,Genome-wide association mapping and genomic prediction analyses reveal the genetic architecture of grain yield and agronomic traits under drought and optimum conditions in maize.,BMC Plant Biol
 39901075,732788,DREB2,"Cytogenetic impact of gamma radiation and its effects on growth, yield and drought tolerance of maize (Zea mays L.).",BMC Plant Biol
-40883672,541957,DREB1,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
-40883672,542029,peroxidase,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
-40883672,100274012,superoxide dismutase,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
-41131956,606407,CDPK,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
-41131956,542125,Single MYB Histone 4,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
-41131956,542452,K+ Channel 1,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
-41558542,103637076,Calcineurin B-Like Protein 3,Maize Calcineurin B-Like Protein 3 Enhances Salt Stress Tolerance at Seedling Stage.,
-41558542,542122,ZmNHX6,Maize Calcineurin B-Like Protein 3 Enhances Salt Stress Tolerance at Seedling Stage.,
-17923671,542390,nuclear factor Y (NF-Y) B,Plant nuclear factor Y (NF-Y) B subunits confer drought tolerance and lead to improved corn yields on water-limited acres.,Proc Natl Acad Sci U S A. 2007 Oct 16
-17923671,818472,AtNF-YB1,Plant nuclear factor Y (NF-Y) B subunits confer drought tolerance and lead to improved corn yields on water-limited acres.,Proc Natl Acad Sci U S A. 2007 Oct 16
-18930563,835307,RD29A,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-18930563,835306,RD29B,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-18930563,818566,P5CS1,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-18930563,824727,P5CS2,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-18930563,828714,ABI1,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-18930563,835809,ABI2,Over-expression of a Zea mays L. protein phosphatase 2C gene (ZmPP2C) in Arabidopsis thaliana decreases tolerance to salt and drought.,J Plant Physiol. 2009 Mar 15
-19765229,541959,SAT2,"A putative novel transcription factor, AtSKIP, is involved in abscisic acid signalling and confers salt and osmotic tolerance in Arabidopsis.",New Phytol. 2010 Jan
-20633239,542328,H+ -PPase,The pyramid of transgenes TsVP and BetA effectively enhances the drought tolerance of maize plants.,Plant Biotechnol J. 2011 Feb
-21830089,542548,phosphatidylinositol synthase,Overexpression of the phosphatidylinositol synthase gene from Zea mays in tobacco plants alters the membrane lipids composition and improves drought stress tolerance.,Planta. 2012 Jan
-21866346,100217305,bZIP transcription factor,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
-21866346,835306,RD29B,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
-21866346,840987,RAB18,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
-21866346,816317,HIS1-3,"Cloning and characterization of a maize bZIP transcription factor, ZmbZIP72, confers drought and salt tolerance in transgenic Arabidopsis.",Planta. 2012 Feb
-22245611,824718,SDIR1,"ZmRFP1, the putative ortholog of SDIR1, encodes a RING-H2 E3 ubiquitin ligase and responds to drought stress in an ABA-dependent manner in maize.",Gene. 2012 Mar 10
-22245611,100282035,RING-finger protein,"ZmRFP1, the putative ortholog of SDIR1, encodes a RING-H2 E3 ubiquitin ligase and responds to drought stress in an ABA-dependent manner in maize.",Gene. 2012 Mar 10
-23911729,542224,calcium-dependent protein kinase,"A maize calcium-dependent protein kinase gene, ZmCPK4, positively regulated abscisic acid signaling and enhanced drought stress tolerance in transgenic Arabidopsis.",Plant Physiol Biochem. 2013 Oct
-24080398,824718,SALT- AND DROUGHT-INDUCED RING FINGER1,Overexpression of a maize E3 ubiquitin ligase gene enhances drought tolerance through regulating stomatal aperture and antioxidant system in transgenic tobacco.,Plant Physiol Biochem. 2013 Dec
-24080398,100282035,RING-finger protein,Overexpression of a maize E3 ubiquitin ligase gene enhances drought tolerance through regulating stomatal aperture and antioxidant system in transgenic tobacco.,Plant Physiol Biochem. 2013 Dec
-24817160,818566,Delta1-Pyrroline-5-carboxylate synthetase 1,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
-24817160,832636,RD22,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
-24817160,835306,RD29B,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
-24817160,828714,ABA-insensitive 1,"A novel maize homeodomain-leucine zipper (HD-Zip) I gene, Zmhdz10, positively regulates drought and salt tolerance in both rice and Arabidopsis.",Plant Cell Physiol. 2014 Jun
-24974327,840987,RAB18,"A maize mitogen-activated protein kinase kinase, ZmMKK1, positively regulated the salt and drought tolerance in transgenic Arabidopsis.",J Plant Physiol. 2014 Jul 15
-24974327,835307,RD29A,"A maize mitogen-activated protein kinase kinase, ZmMKK1, positively regulated the salt and drought tolerance in transgenic Arabidopsis.",J Plant Physiol. 2014 Jul 15
-25460871,103647543,phosphoenolpyruvate carboxylase,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
-25460871,542278,nitrate reductase,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
-25460871,542702,phospholipase D,Enhanced drought tolerance in transgenic rice over-expressing of maize C4 phosphoenolpyruvate carboxylase gene via NO and Ca(2+).,J Plant Physiol. 2015 Mar 1
-26220950,825160,ARGOS,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
-26220950,818722,ORGAN SIZE RELATED1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
-26220950,831748,CONSTITUTIVE TRIPLE RESPONSE1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
-26220950,831889,ETHYLENE-INSENSITIVE2,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
-26220950,817148,REVERSION-TO-ETHYLENE SENSITIVITY1,"Overexpression of ARGOS Genes Modifies Plant Sensitivity to Ethylene, Leading to Improved Drought Tolerance in Both Arabidopsis and Maize.",Plant Physiol. 2015 Sep
-26877151,548127,cytokinin dehydrogenase,Whole transcriptome analysis of transgenic barley with altered cytokinin homeostasis and increased tolerance to drought stress.,N Biotechnol. 2016 Sep 25
-27968980,834756,cbl9,Characterization of the calcineurin B-Like (CBL) gene family in maize and functional analysis of ZmCBL9 under abscisic acid and abiotic stress treatments.,Plant Sci. 2016 Dec
-28378532,842114,galactinol synthase 2,Overexpression of an Arabidopsis thaliana galactinol synthase gene improves drought tolerance in transgenic rice and increased grain yield in the field.,Plant Biotechnol J. 2017 Nov
-28378532,100192952,ubiquitin,Overexpression of an Arabidopsis thaliana galactinol synthase gene improves drought tolerance in transgenic rice and increased grain yield in the field.,Plant Biotechnol J. 2017 Nov
-28888162,103647543,phosphoenolpyruvate carboxylase,Improved short-term drought response of transgenic rice over-expressing maize C4 phosphoenolpyruvate carboxylase via calcium signal cascade.,J Plant Physiol. 2017 Nov
-29896208,542390,NF-YB,ZmNF-YB16 Overexpression Improves Drought Resistance and Yield by Enhancing Photosynthesis and the Antioxidant Capacity of Maize Plants.,Front Plant Sci. 2018 May 29
-32480747,28721236,peroxidase,Expression of maize heat shock transcription factor gene ZmHsf06 enhances the thermotolerance and drought-stress tolerance of transgenic Arabidopsis.,Funct Plant Biol. 2015 Nov
-32480747,829661,catalase,Expression of maize heat shock transcription factor gene ZmHsf06 enhances the thermotolerance and drought-stress tolerance of transgenic Arabidopsis.,Funct Plant Biol. 2015 Nov
-33057352,100381337,MAPK,Comparative transcriptomic analysis of contrasting hybrid cultivars reveal key drought-responsive genes and metabolic pathways regulating drought stress tolerance in maize at various stages.,PLoS One. 2020 Oct 15
-39486317,6147,RPL23A,Impact of arbuscular mycorrhizal fungi on maize rhizosphere microbiome stability under moderate drought conditions.,Microbiol Res
+39928574,100274012,superoxide dismutase,The maize GSK3-like kinase ZmSK1 negatively regulates drought tolerance by phosphorylating the transcription factor ZmCPP2.,Plant Cell
+39988889,28721236,peroxidase,Maize 4-coumarate coenzyme A ligase Zm4CL-like9 gene positively regulates drought stress response in Arabidopsis thaliana.,GM Crops Food
+40027706,7020,AP2,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
+40027706,2077,ERF,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
+40027706,7504,NAC,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
+40027706,3569,HSF,Stress-responsive transcription factor families are key components of the core abiotic stress response in maize.,
+40102048,839623,LCR,Maize mutants in miR394-regulated genes show improved drought tolerance.,Physiol Plant
+40107433,107781159,cytochrome b5,"ZmCYB5-1, a cytochrome b5 Gene, negatively regulates drought stress tolerance in maize.",Gene
+40177019,28721236,peroxidase,Identification of nuclear factor YA6 genes in sorghum and characterization of their involvement in drought tolerance.,Front Plant Sci
+40177019,829661,catalase,Identification of nuclear factor YA6 genes in sorghum and characterization of their involvement in drought tolerance.,Front Plant Sci
+40204192,542029,peroxidase,Overexpression of maize transcription factor ZmNF-YC14 positively regulates drought and salt stress responses in Arabidopsis thaliana.,Plant Sci
+40204192,100274012,superoxide dismutase,Overexpression of maize transcription factor ZmNF-YC14 positively regulates drought and salt stress responses in Arabidopsis thaliana.,Plant Sci
+40208945,55726,Guard Cell Turgor Maintaining 1,ZmGCT1/2 negatively regulate drought tolerance in maize by inhibiting ZmSLAC1 to maintain guard cell turgor.,Proc Natl Acad Sci U S A
+40208945,51026,GCT2,ZmGCT1/2 negatively regulate drought tolerance in maize by inhibiting ZmSLAC1 to maintain guard cell turgor.,Proc Natl Acad Sci U S A
+40215297,100281364,bZIP89,Natural variation in a cortex/epidermis-specific transcription factor bZIP89 determines lateral root development and drought resilience in maize.,Sci Adv
+40226964,100191578,calcineurin B-like protein,ZmCIPK33 and ZmSnRK2.10 mutually reinforce the abscisic acid signaling pathway for combating drought stress in maize.,J Integr Plant Biol
+40226964,100141385,CBL-interacting protein kinase,ZmCIPK33 and ZmSnRK2.10 mutually reinforce the abscisic acid signaling pathway for combating drought stress in maize.,J Integr Plant Biol
 40422709,100191578,calcineurin B-like protein,Transcriptome Analysis Reveals the Molecular Mechanisms for Mycorrhiza-Enhanced Drought Tolerance in Maize by Regulating the Ca<sup>2+</sup> Signaling Pathway.,J Fungi (Basel)
 40422709,100141385,CBL-interacting protein kinase,Transcriptome Analysis Reveals the Molecular Mechanisms for Mycorrhiza-Enhanced Drought Tolerance in Maize by Regulating the Ca<sup>2+</sup> Signaling Pathway.,J Fungi (Basel)
 40422709,100381337,mitogen-activated protein kinase,Transcriptome Analysis Reveals the Molecular Mechanisms for Mycorrhiza-Enhanced Drought Tolerance in Maize by Regulating the Ca<sup>2+</sup> Signaling Pathway.,J Fungi (Basel)
@@ -317,115 +409,59 @@ pmid,gene_id,gene_text,title,journal
 40487216,100280060,glutathione peroxidase,Comprehensive transcriptome analysis provides molecular insights into the heterosis-associated drought tolerance and reveals ZmbHLH137 that promotes drought tolerance in maize seedlings.,
 40487216,542029,peroxidase,Comprehensive transcriptome analysis provides molecular insights into the heterosis-associated drought tolerance and reveals ZmbHLH137 that promotes drought tolerance in maize seedlings.,
 40487216,100274012,superoxide dismutase,Comprehensive transcriptome analysis provides molecular insights into the heterosis-associated drought tolerance and reveals ZmbHLH137 that promotes drought tolerance in maize seedlings.,
+40576572,732805,GL15,Genetic interaction between GL15 and FDL1 modulates juvenile cuticle deposition and leaf permeability in maize.,
+40675381,100283513,DnaJ,Molecular characterization of Zea mays ZmDnaJ3: A key protein positively regulating heat and drought stress adaptation.,Plant Sci
+40675381,542029,peroxidase,Molecular characterization of Zea mays ZmDnaJ3: A key protein positively regulating heat and drought stress adaptation.,Plant Sci
+40675381,100274012,superoxide dismutase,Molecular characterization of Zea mays ZmDnaJ3: A key protein positively regulating heat and drought stress adaptation.,Plant Sci
+40774573,542029,POD,ZmPOD5 positively regulates drought tolerance by modulating ROS production.,Plant Sci
+40774573,100274012,superoxide dismutase,ZmPOD5 positively regulates drought tolerance by modulating ROS production.,Plant Sci
+40797183,732818,ITPK1,Genome-wide association study for plant height and ear height in maize under well-watered and water-stressed conditions.,BMC Genomics
+40829341,100274012,superoxide dismutase,"Tonoplast sugar transporter ZmTST1 positively regulates plant growth, salt and drought tolerance.",
+40829341,542029,peroxidase,"Tonoplast sugar transporter ZmTST1 positively regulates plant growth, salt and drought tolerance.",
+40848740,100381337,MAPK,Effects of exogenous GR24 on the growth and gene expression of maize seedlings under drought stress.,Phytochemistry
+40883672,541957,DREB1,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
+40883672,542029,peroxidase,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
+40883672,100274012,superoxide dismutase,Molecular insights into drought tolerance in wheat through in-silico genome-wide analysis of DREB1 transcription factor and peroxidase interactions.,BMC Plant Biol
+40893112,852308,Gal1,Overexpression of Leptochloa fusca H+-pyrophosphatase (LfVP1) gene improves salinity and drought tolerance in tobacco.,GM Crops Food
+40893112,851610,ena1,Overexpression of Leptochloa fusca H+-pyrophosphatase (LfVP1) gene improves salinity and drought tolerance in tobacco.,GM Crops Food
+40898023,100282383,nucleic acid binding protein,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
+40898023,100193873,ATP synthase,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
+40898023,100857098,glycine-rich RNA-binding protein,Comprehensive analysis of dehydrin genes reveals ZmDHN3 contributes to drought resistance in maize (Zea Mays L.).,BMC Plant Biol
+40944734,100284066,polygalacturonase,ZmWAK3-mediated cell wall remodeling and stomatal dynamics modulate drought tolerance in maize seedlings.,Theor Appl Genet
 40974545,100280060,glutathione peroxidase,Cover Crop Root Channels Promote Bacterial Adaptation to Drought in the Maize Rhizosphere.,Glob Chang Biol
+41014949,542166,4-Coumarate coenzyme A ligase,The Zm4CL2 gene regulates drought stress response in Zea mays L.,Plant Physiol Biochem
+41026892,100381337,MAPK,Brassinosteroid-signaling kinase 4 activates mitogen-activated protein kinase 4 to enhance cold stress tolerance in maize.,Plant Cell
+41039911,542710,glutamate synthase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
+41039911,542278,nitrate reductase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
+41039911,100856888,glutamate dehydrogenase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
+41039911,100856906,asparagine synthetase,Alkalinity Inhibits Maize Low-Temperature Resistance Through Nitrogen and ROS Metabolism.,Physiol Plant
+41131956,606407,CDPK,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
+41131956,542125,Single MYB Histone 4,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
+41131956,542452,K+ Channel 1,ZmCRK5A kinase enhances drought tolerance in maize via phosphorylation-dependent inhibition of ZmSMH4.,J Integr Plant Biol
+41168446,100191234,diaminopimelate epimerase,Natural variation in ZmDapF1 enhances maize drought resilience.,Nat Plants
+41245216,542092,NRT2,"In silico evolutionary origin, structural properties, molecular docking, following expression analysis of the nitrate transporters in maize to explore their roles in abiotic stress tolerance.",Physiol Mol Biol Plants
+41455275,541891,ZmPIP2;6,Microbial biofilms as drought shields: Bacillus velezensis D103 enhances maize tolerance via aquaporin regulation.,
+41455275,541675,ZmTIP1;1,Microbial biofilms as drought shields: Bacillus velezensis D103 enhances maize tolerance via aquaporin regulation.,
 41455433,100170665,ZmSNAC1,ZmSNAC1 cooperates with its interaction partner ZmNAC19 and ZmCAR11 to regulate drought tolerance in maize.,Plant Physiol Biochem
+41527164,541618,ZmMPK5,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
+41527164,542468,ZmOCL1,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
+41527164,542251,dehydrin,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
+41527164,542029,peroxidase,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
+41527164,100381337,mitogen-activated protein kinase,ZmMPK5-mediated ZmOCL1 phosphorylation positively regulates drought tolerance by promoting the induction of ZmDHN2 in maize.,New Phytol
+41558542,103637076,Calcineurin B-Like Protein 3,Maize Calcineurin B-Like Protein 3 Enhances Salt Stress Tolerance at Seedling Stage.,
+41558542,542122,ZmNHX6,Maize Calcineurin B-Like Protein 3 Enhances Salt Stress Tolerance at Seedling Stage.,
 41567405,542228,indole-3-acetaldehyde oxidase,Genotype-specific responses of maize plants to Funneliformis mosseae under drought stress: phenomic and transcriptomic insights.,Front Plant Sci
 41567405,542232,auxin-binding protein 1,Genotype-specific responses of maize plants to Funneliformis mosseae under drought stress: phenomic and transcriptomic insights.,Front Plant Sci
 41567405,542246,tasselseed-2,Genotype-specific responses of maize plants to Funneliformis mosseae under drought stress: phenomic and transcriptomic insights.,Front Plant Sci
-42082112,100384480,POD,Negative Regulation of ZmBBX24 Gene Under Combined Light and Drought Stress Modulates Drought Tolerance in Arabidopsis.,Plant Sci
-12586876,107810646,TPS,Expression of a bifunctional fusion of the Escherichia coli genes for trehalose-6-phosphate synthase and trehalose-6-phosphate phosphatase in transgenic rice plants increases trehalose accumulation and abiotic stress tolerance without stunting growth.,Plant Physiol. 2003 Feb
-12586876,107814858,TPP,Expression of a bifunctional fusion of the Escherichia coli genes for trehalose-6-phosphate synthase and trehalose-6-phosphate phosphatase in transgenic rice plants increases trehalose accumulation and abiotic stress tolerance without stunting growth.,Plant Physiol. 2003 Feb
-12595141,542372,PEPC,Improvement of drought tolerance in maize: towards the functional validation of the Zm-Asr1 gene and increase of water use efficiency by over-expressing C4-PEPC.,Biochimie. 2002 Nov
-15356330,541957,DREB1,Cloning and functional analysis of a novel DREB1/CBF transcription factor involved in cold-responsive gene expression in Zea mays L.,Plant Cell Physiol. 2004 Aug
-15356330,828652,DREB1A,Cloning and functional analysis of a novel DREB1/CBF transcription factor involved in cold-responsive gene expression in Zea mays L.,Plant Cell Physiol. 2004 Aug
-17075179,542434,ZmPIP1-1,[Expression of ZmPIP1 subgroup genes in maize roots under water shortage].,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2006 Oct
-17075179,541779,ZmPIP1-2,[Expression of ZmPIP1 subgroup genes in maize roots under water shortage].,Zhi Wu Sheng Li Yu Fen Zi Sheng Wu Xue Xue Bao. 2006 Oct
-19105030,100141385,CBL-interacting protein kinase,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
-19105030,833502,sos2,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
-19105030,814729,SOS1,Cloning and characterization of a novel CBL-interacting protein kinase from maize.,Plant Mol Biol. 2009 Apr
-19906836,100274012,superoxide dismutase,"Mechanisms of progressive water deficit tolerance and growth recovery of Chinese maize foundation genotypes Huangzao 4 and Chang 7-2, which are proposed on the basis of comparison of physiological and transcriptomic responses.",Plant Cell Physiol. 2009 Dec
-19906836,542029,peroxidase,"Mechanisms of progressive water deficit tolerance and growth recovery of Chinese maize foundation genotypes Huangzao 4 and Chang 7-2, which are proposed on the basis of comparison of physiological and transcriptomic responses.",Plant Cell Physiol. 2009 Dec
-21134899,732819,vp14,Nitric oxide mediates brassinosteroid-induced ABA biosynthesis involved in oxidative stress tolerance in maize leaves.,Plant Cell Physiol. 2011 Jan
-22366304,100285487,peptidyl-prolyl cis/trans isomerase,Genome-wide analysis and environmental response profiling of the FK506-binding protein gene family in maize (Zea mays L.).,Gene. 2012 May 1
-23152961,542548,phosphatidylinositol synthase,Overexpression of the phosphatidylinositol synthase gene (ZmPIS) conferring drought stress tolerance by altering membrane lipid composition and increasing ABA synthesis in maize.,Plant Cell Environ. 2013 May
-23152961,100192952,ubiquitin,Overexpression of the phosphatidylinositol synthase gene (ZmPIS) conferring drought stress tolerance by altering membrane lipid composition and increasing ABA synthesis in maize.,Plant Cell Environ. 2013 May
-24929517,100282161,mo-molybdopterin cofactor sulfurase,[Cloning and functional validation of promoter of mo-molybdopterin cofactor sulfurase gene in maize].,Yi Chuan. 2014 Jun
-26870063,542548,phosphatidylinositol synthase,Identification of a 467 bp Promoter of Maize Phosphatidylinositol Synthase Gene (ZmPIS) Which Confers High-Level Gene Expression and Salinity or Osmotic Stress Inducibility in Transgenic Tobacco.,Front Plant Sci. 2016 Feb 1
-27456042,542540,D-myo-inositol-3-phosphate synthase,Potential role of D-myo-inositol-3-phosphate synthase and 14-3-3 genes in the crosstalk between Zea mays and Rhizophagus intraradices under drought stress.,Mycorrhiza. 2016 Nov
-29312925,606407,CDPK,"Comparative Analysis of CDPK Family in Maize, Arabidopsis, Rice, and Sorghum Revealed Potential Targets for Drought Tolerance Improvement.",Front Chem. 2017 Dec 19
-29312925,100381337,MAPK,"Comparative Analysis of CDPK Family in Maize, Arabidopsis, Rice, and Sorghum Revealed Potential Targets for Drought Tolerance Improvement.",Front Chem. 2017 Dec 19
-29593762,103642918,Sulfite oxidase,Overexpression of the Maize Sulfite Oxidase Increases Sulfate and GSH Levels and Enhances Drought Tolerance in Transgenic Tobacco.,Front Plant Sci. 2018 Mar 12
-29636765,100284678,PSY,"Soil Selenium (Se) Biofortification Changes the Physiological, Biochemical and Epigenetic Responses to Water Stress in Zea mays L. by Inducing a Higher Drought Tolerance.",Front Plant Sci. 2018 Mar 27
-29636765,100285036,ADH,"Soil Selenium (Se) Biofortification Changes the Physiological, Biochemical and Epigenetic Responses to Water Stress in Zea mays L. by Inducing a Higher Drought Tolerance.",Front Plant Sci. 2018 Mar 27
-32515355,541983,polyamine oxidase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
-32515355,100274012,superoxide dismutase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
-32515355,542029,peroxidase,Contrasting the expression pattern change of polyamine oxidase genes and photosynthetic efficiency of maize (Zea mays L.) genotypes under drought stress.,J Biosci. 2020
-32742048,732825,crtRB1,Phenotypic characterization and validation of provitamin A functional genes in early maturing provitamin A-quality protein maize (Zea mays) inbred lines.,Plant Breed. 2020 Jun
-32742048,100280448,LcyE,Phenotypic characterization and validation of provitamin A functional genes in early maturing provitamin A-quality protein maize (Zea mays) inbred lines.,Plant Breed. 2020 Jun
-36944863,842070,Hap5B,Novel function of a putative TaCOBL ortholog associated with cold response.,Mol Biol Rep. 2023 May
-41026892,100381337,MAPK,Brassinosteroid-signaling kinase 4 activates mitogen-activated protein kinase 4 to enhance cold stress tolerance in maize.,Plant Cell
-41455275,541891,ZmPIP2;6,Microbial biofilms as drought shields: Bacillus velezensis D103 enhances maize tolerance via aquaporin regulation.,
-41455275,541675,ZmTIP1;1,Microbial biofilms as drought shields: Bacillus velezensis D103 enhances maize tolerance via aquaporin regulation.,
-41825104,100125646,comt,Transcriptomic and phenotypic analysis of maize with CRISPR/Cas9-mediated targeted mutagenesis of melatonin synthesis genes under drought stress.,
-15073214,107796336,NPK1,Expression of the Nicotiana protein kinase (NPK1) enhanced drought tolerance in transgenic maize.,J Exp Bot. 2004 May
-15073214,100191795,mitogen-activated protein kinase kinase kinase,Expression of the Nicotiana protein kinase (NPK1) enhanced drought tolerance in transgenic maize.,J Exp Bot. 2004 May
-15359131,828653,DREB1b,"Ectopic expression of a cold-inducible transcription factor, CBF1/DREB1b, in transgenic rice (Oryza sativa L.).",Mol Cells. 2004 Aug 31
-15359131,828782,lip5,"Ectopic expression of a cold-inducible transcription factor, CBF1/DREB1b, in transgenic rice (Oryza sativa L.).",Mol Cells. 2004 Aug 31
-21327835,542369,Cat1,Maize ABP9 enhances tolerance to multiple stresses in transgenic Arabidopsis by modulating ABA signaling and cellular levels of reactive oxygen species.,Plant Mol Biol. 2011 Mar
-25076840,542019,zmm16,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
-25076840,100415939,MADS-domain transcription factor,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
-25076840,542126,psbs1,Molecular mapping across three populations reveals a QTL hotspot region on chromosome 3 for secondary traits associated with drought tolerance in tropical maize.,Mol Breed. 2014
-25231250,103647543,phosphoenolpyruvate carboxylase,Improved oxidative tolerance in suspension-cultured cells of C4-pepctransgenic rice by H2O2 and Ca(2+) under PEG-6000.,J Integr Plant Biol. 2015 Jun
-25940960,542373,Rab17,The TaDREB3 transgene transferred by conventional crossings to different genetic backgrounds of bread wheat improves drought tolerance.,Plant Biotechnol J. 2016 Jan
-26669318,542372,PEPC,Erratum to: Drought tolerance and proteomics studies of transgenic wheat containing the maize C4 phosphoenolpyruvate carboxylase (PEPC) gene.,Protoplasma. 2016 Nov
-26793207,800514,psbA,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
-26793207,845199,psbA,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
-26793207,107793843,NtERD10C,"Overexpression of the Maize psbA Gene Enhances Drought Tolerance Through Regulating Antioxidant System, Photosynthetic Capability, and Stress Defense Gene Expression in Tobacco.",Front Plant Sci. 2016 Jan 12
-27933075,101769963,Lipid Transfer Protein,A Non-specific Setaria italica Lipid Transfer Protein Gene Plays a Critical Role under Abiotic Stress.,Front Plant Sci. 2016 Nov 24
-28415033,542372,PEPC,Physiological investigation of C4-phosphoenolpyruvate-carboxylase-introduced rice line shows that sucrose metabolism is involved in the improved drought tolerance.,Plant Physiol Biochem. 2017 Jun
-28674550,542434,ZmPIP1;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541886,ZmPIP1;3,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541887,ZmPIP1;6,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,542644,ZmPIP2;2,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541890,ZmPIP2;4,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541675,ZmTIP1;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541687,ZmTIP2;3,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-28674550,541897,ZmTIP4;1,Enhanced Drought Stress Tolerance by the Arbuscular Mycorrhizal Symbiosis in a Drought-Sensitive Maize Cultivar Is Related to a Broader and Differential Regulation of Host Plant Aquaporins than in a Drought-Tolerant Cultivar.,Front Plant Sci. 2017 Jun 19
-33613597,107773042,peroxidase,Overexpression of DBF-Interactor Protein 6 Containing an R3H Domain Enhances Drought Tolerance in Populus L. (Populus tomentosa).,Front Plant Sci. 2021 Feb 4
-33613597,107799583,catalase,Overexpression of DBF-Interactor Protein 6 Containing an R3H Domain Enhances Drought Tolerance in Populus L. (Populus tomentosa).,Front Plant Sci. 2021 Feb 4
-34925395,100286089,protein phosphatase 2C,Network Analysis of Different Exogenous Hormones on the Regulation of Deep Sowing Tolerance in Maize Seedlings.,Front Plant Sci. 2021 Dec 2
-35360304,100282648,GRMZM2G168365,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
-35360304,100279767,GRMZM2G470499,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
-35360304,100194263,GRMZM2G028982,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
-35360304,103641424,GRMZM2G381691,A Genome-Wide Association Study Dissects the Genetic Architecture of the Metaxylem Vessel Number in Maize Brace Roots.,Front Plant Sci. 2022 Mar 10
-41245216,542092,NRT2,"In silico evolutionary origin, structural properties, molecular docking, following expression analysis of the nitrate transporters in maize to explore their roles in abiotic stress tolerance.",Physiol Mol Biol Plants
-42152588,100191716,GRMZM5G813651,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
-42152588,542709,MADS-box protein,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
-42152588,542257,GRMZM2G148693,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
-12175017,839571,atrab28,Arabidopsis thaliana atrab28: a nuclear targeted protein related to germination and toxic cation tolerance.,Plant Mol Biol. 2002 Sep
-16709191,732783,DBF1-interactor protein 1,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
-16709191,542569,DBF1,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
-16709191,101027154,dehydration-responsive element (DRE)-binding factor,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
-16709191,542373,rab17,Maize DBF1-interactor protein 1 containing an R3H domain is a potential regulator of DBF1 activity in stress responses.,Plant J. 2006 Jun
-19704731,840339,STOP1,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
-19704731,817757,Cys2/His2 type zinc-finger protein,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
-19704731,837363,AtALMT1,"STOP1, a Cys2/His2 type zinc-finger protein, plays critical role in acid soil tolerance in Arabidopsis.",Plant Signal Behav. 2008 Feb
-21638061,835307,RD29A,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-21638061,835306,RD29B,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-21638061,840987,RAB18,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-21638061,828714,ABI1,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-21638061,830424,DREB2A,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-21638061,818566,P5CS1,Cloning and characterization of a maize SnRK2 protein kinase gene confers enhanced salt tolerance in transgenic Arabidopsis.,Plant Cell Rep. 2011 Sep
-22130861,844399,WIN1,An ethylene response factor OsWR1 responsive to drought stress transcriptionally activates wax synthesis related genes and increases wax production in rice.,Plant Mol Biol. 2012 Feb
-24864043,542140,GT1,Evolutionary history of trihelix family and their functional diversification.,DNA Res. 2014 Oct
-24864043,8055927,Sb06g023980,Evolutionary history of trihelix family and their functional diversification.,DNA Res. 2014 Oct
-26035591,100192952,ubiquitin,Overexpression of an AP2/ERF Type Transcription Factor OsEREBP1 Confers Biotic and Abiotic Stress Tolerance in Rice.,PLoS One. 2015 Jun 2
-26220082,542390,NF-YB,Constitutive overexpression of the TaNF-YB4 gene in transgenic wheat significantly improves grain yield.,J Exp Bot. 2015 Nov
-26220082,542322,polyubiquitin,Constitutive overexpression of the TaNF-YB4 gene in transgenic wheat significantly improves grain yield.,J Exp Bot. 2015 Nov
-34455034,100280441,cysteine protease,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-34455034,542702,phospholipase D,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-34455034,100285115,phenylalanine ammonia-lyase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-34455034,542735,cinnamoyl CoA reductase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-34455034,542663,cinnamyl alcohol dehydrogenase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-34455034,542029,peroxidase,"Molecular mechanisms of mesocotyl elongation induced by brassinosteroid in maize under deep-seeding stress by RNA-sequencing, microstructure observation, and physiological metabolism.",Genomics. 2021 Nov
-36204058,8846,AlkB,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
-36204058,6647,SOD,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
-36204058,847,CAT,"Genome-wide identification of the AlkB homologs gene family, PagALKBH9B and PagALKBH10B regulated salt stress response in Populus.",Front Plant Sci. 2022 Sep 20
-38571713,835478,CUC2,A new model construction based on the knowledge graph for mining elite polyphenotype genes in crops.,Front Plant Sci
-38600703,100820031,squalene monooxygenase,Soybean steroids improve crop abiotic stress tolerance and increase yield.,Plant Biotechnol J
-40893112,852308,Gal1,Overexpression of Leptochloa fusca H+-pyrophosphatase (LfVP1) gene improves salinity and drought tolerance in tobacco.,GM Crops Food
-40893112,851610,ena1,Overexpression of Leptochloa fusca H+-pyrophosphatase (LfVP1) gene improves salinity and drought tolerance in tobacco.,GM Crops Food
 41746965,100193700,ERD6,"Exploring structural, functional, evolutionary, and genetic characteristics of sugar transporters in maize and their roles in abiotic stress tolerance.",PLoS One
 41746965,732837,TMT,"Exploring structural, functional, evolutionary, and genetic characteristics of sugar transporters in maize and their roles in abiotic stress tolerance.",PLoS One
 41746965,541809,pGlcT,"Exploring structural, functional, evolutionary, and genetic characteristics of sugar transporters in maize and their roles in abiotic stress tolerance.",PLoS One
 41746965,100125635,MYB8,"Exploring structural, functional, evolutionary, and genetic characteristics of sugar transporters in maize and their roles in abiotic stress tolerance.",PLoS One
+41825104,100125646,comt,Transcriptomic and phenotypic analysis of maize with CRISPR/Cas9-mediated targeted mutagenesis of melatonin synthesis genes under drought stress.,
+42082112,100384480,POD,Negative Regulation of ZmBBX24 Gene Under Combined Light and Drought Stress Modulates Drought Tolerance in Arabidopsis.,Plant Sci
+42152588,100191716,GRMZM5G813651,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
+42152588,542709,MADS-box protein,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
+42152588,542257,GRMZM2G148693,Genome-wide association study reveals the genetic architecture of drought tolerance in maize using yield-based resistance indices and transcriptomic evidence.,Plant Genome
+42252316,8078967,Sb02g037735,Insights into the genetic basis of natural selection and domestication from Sorghum.,Sci Rep
+42252316,8054796,Sb02g029450,Insights into the genetic basis of natural selection and domestication from Sorghum.,Sci Rep
+42255300,100384480,POD,Genome-wide identification and functional characterization of the ABF gene family in maize reveals ZmABF8 as a key regulator of drought tolerance.,Front Plant Sci
