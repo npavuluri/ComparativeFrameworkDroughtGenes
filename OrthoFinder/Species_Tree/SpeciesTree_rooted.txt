@@ -1,0 +1,1 @@
+(Arabidopsis_thaliana:0.382825,((Zea_mays:0.0823637,Sorghum_bicolor:0.0541856)1:0.134671,(Oryza_sativa:0.179402,(Brachypodium_distachyon:0.123309,(Avena_sativa:0.129539,(Hordeum_vulgare:0.0402636,(Triticum_aestivum:0.0165572,Triticum_turgidum:0.0164323)1:0.0301823)1:0.061071)1:0.0310974)1:0.0789368)1:0.030496)1:0.382825);
