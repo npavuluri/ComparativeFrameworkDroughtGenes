@@ -1,0 +1,10 @@
+	Arabidopsis_thaliana	Avena_sativa	Brachypodium_distachyon	Hordeum_vulgare	Oryza_sativa	Sorghum_bicolor	Triticum_aestivum	Triticum_turgidum	Zea_mays
+Arabidopsis_thaliana	0.0	7044.0	1878.0	1661.0	1533.0	1922.0	7089.0	6375.0	2991.0
+Avena_sativa	83.0	0.0	271.0	273.0	167.0	142.0	1478.0	1124.0	231.0
+Brachypodium_distachyon	1917.0	17483.0	0.0	1979.0	1589.0	1838.0	17791.0	15030.0	5404.0
+Hordeum_vulgare	1890.0	16375.0	1265.0	0.0	1347.0	1603.0	20294.0	16610.0	4832.0
+Oryza_sativa	2009.0	13808.0	1827.0	2005.0	0.0	1945.0	14201.0	12114.0	4931.0
+Sorghum_bicolor	1883.0	15581.0	1826.0	1990.0	1710.0	0.0	15955.0	13651.0	5618.0
+Triticum_aestivum	90.0	1771.0	239.0	366.0	216.0	166.0	0.0	2480.0	299.0
+Triticum_turgidum	327.0	3746.0	409.0	527.0	375.0	377.0	17944.0	0.0	840.0
+Zea_mays	1273.0	10686.0	1246.0	1410.0	1226.0	1466.0	11007.0	9437.0	0.0
